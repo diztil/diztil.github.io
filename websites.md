@@ -17,18 +17,18 @@ jekyll-theme-WuK:
 - mukto.live (expired)
 - cruse.life (expired)
 - zessel.me (expired)
-- asenturisk.com
-- muxworks.com (expiring)
-- muxsites.com (expiring)
-- mikumikudance.org (expiring)
-- মুক্ত.com (expiring)
-- dewan.dev (expiring)
-- dewanmukto.com
-- muktodmi.com (expiring)
-- sawpmansite.com (expiring)
-- amrellasocial.com (expiring)
-- sawpman.com (expiring)
-- mux.com.co (expiring)
+- asenturisk.com (expired)
+- muxworks.com (expired)
+- muxsites.com (expired)
+- mikumikudance.org (expired)
+- মুক্ত.com (expired)
+- dewan.dev (expired)
+- dewanmukto.com (expired)
+- muktodmi.com (expired)
+- sawpmansite.com (expired)
+- amrellasocial.com (expired)
+- sawpman.com (expired)
+- mux.com.co (expired)
 
 
 #### An index of all my websites :
@@ -79,31 +79,31 @@ jekyll-theme-WuK:
 43. sounddonor.bubbleapps.io
 44. shoft.bubbleapps.io
 45. dewal.bubbleapps.io
-46. mukto.live
-47. www.mukto.live
-48. zessel.me
-49. social.cruse.life
-50. msharp.asenturisk.com
-51. ~~mux.asenturisk.com~~ oldfolio.dewanmukto.com
-52. apps.asenturisk.com
-53. frostfly.zessel.me
-54. mukto.company.site
-55. ~~www.muxworks.com~~ mux.dewanmukto.com
-56. mukto.muxworks.com
-57. edexcel.muxworks.com
-58. ~~amrella.muxworks.com~~ amrella.apps.dewanmukto.com
-59. dewan.dev
-60. amrella.dewan.dev
-61. dewanmukto.com
-63. sawpmansite.com
-64. sawpman.com
-65. chillmusic.muxsites.com
-66. ~~geoxor.muxsites.com~~ geoxor.sites.dewanmukto.com
-67. cleanchat.muxsites.com
-68. phoenixnation.muxsites.com
-69. ~~detalk.muxsites.com~~ detalk.sites.dewanmukto.com
-70. ~~dewanielts.muxsites.com~~ ielts.dewanmukto.com
-71. ~~bs.muxsites.com~~ blog.mux.dewanmukto.com
-72. shop.dewanmukto.com
+46. ~~mukto.live~~
+47. ~~www.mukto.live~~
+48. ~~zessel.me~~
+49. ~~social.cruse.life~~
+50. ~~msharp.asenturisk.com~~
+51. ~~mux.asenturisk.com~~ ~~oldfolio.dewanmukto.com~~
+52. ~~apps.asenturisk.com~~
+53. ~~frostfly.zessel.me~~
+54. ~~mukto.company.site~~
+55. ~~www.muxworks.com~~ ~~mux.dewanmukto.com~~
+56. ~~mukto.muxworks.com~~
+57. ~~edexcel.muxworks.com~~
+58. ~~amrella.muxworks.com~~ ~~amrella.apps.dewanmukto.com~~
+59. ~~dewan.dev~~
+60. ~~amrella.dewan.dev~~
+61. ~~dewanmukto.com~~
+63. ~~sawpmansite.com~~
+64. ~~sawpman.com~~
+65. ~~chillmusic.muxsites.com~~
+66. ~~geoxor.muxsites.com~~ ~~geoxor.sites.dewanmukto.com~~
+67. ~~cleanchat.muxsites.com~~
+68. ~~phoenixnation.muxsites.com~~
+69. ~~detalk.muxsites.com~~ ~~detalk.sites.dewanmukto.com~~
+70. ~~dewanielts.muxsites.com~~ ~~ielts.dewanmukto.com~~
+71. ~~bs.muxsites.com~~ ~~blog.mux.dewanmukto.com~~
+72. ~~shop.dewanmukto.com~~
 
 (there could be more, but I forgot which ones they were 🥴)
