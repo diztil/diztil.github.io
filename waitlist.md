@@ -22,9 +22,16 @@ jekyll-theme-WuK:
 |👑|GWORly|@Mishy2055|4765595653|500|
 |👑|Lumine|@Ceylin1975|66893126|400|
 |👑|zachary|@zacharymcree|920423632|2000|
-||eli|@UrfavElinkaa|3658555516|25000|
+|💘|eli|@UrfavElinkaa|3658555516|25000|
 ||ace|@Ace0fSpades3|337810255|100|
 |👑|Ocelot|@Ocel0tXLS75|1840936673|100|
+||Nxia|@iibluexangell|1867525075|100|
+||KingMiles|@Goldchainplaysroblox|364682372|100|
+||Omniscient|@OmnicientCreature|557424545|100|
+||Shiromimomorio|@catha1234olivia|2550170007|100|
+||RLKnight|@Arlo127011|4922875592|100|
+||sauto|@Nekodatom|4809616892|100|
+|💘|yuna|@yuniesaltaccount|4563548177|20000|
 
 ## Previously Paid
 ||Display Name|Username|ID|Robux|
