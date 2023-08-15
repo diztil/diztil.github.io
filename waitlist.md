@@ -45,4 +45,6 @@ jekyll-theme-WuK:
 ||Veebs|@KittyKitty374|143888270|10|
 ||one_fluffykitten|@one_fluffykitten|3745728972|10|
 ||Minet|@Fofsasi|4655701135|180|
-||||||
+||MyTales|@SoomDoomFoom|1809440425|1100|
+||Limon|@AmarillaUwu28|2844910749|10|
+
