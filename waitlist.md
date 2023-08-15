@@ -23,7 +23,7 @@ The following lists and tables exhibit information related to Distil's YouTube c
 ## Currently Waiting
 
 ||Display Name|Username|ID|Robux|
-|:---:|:---|:---|:---:|:---:|
+|     :---:      |     :---      |     :---      |     :---:      |     :---:     |
 |👑|GWORly|@Mishy2055|4765595653|500|
 |👑|Lumine|@Ceylin1975|66893126|400|
 |👑|zachary|@zacharymcree|920423632|2000|
