@@ -14,12 +14,14 @@ The following lists and tables exhibit information related to Distil's YouTube c
 **Classes :** 👑 VIP Members & Friends, 🎮 Game Testers, 💎 Sponsors, 🛡️ Social Support, 💘 Love Interest, 🏆 Contest Winner
 
 ## Top Robux Winners
+
 🥇  (calculating...) \
 🥈  (calculating...) \
 🥉  (calculating...) \
 🏅 (calculating...) 
 
 ## Currently Waiting
+
 ||Display Name|Username|ID|Robux|
 |:---:|:---|:---|:---:|:---:|
 |👑|GWORly|@Mishy2055|4765595653|500|
@@ -37,6 +39,7 @@ The following lists and tables exhibit information related to Distil's YouTube c
 |💘|yuna|@yuniesaltaccount|4563548177|20000|
 
 ## Previously Paid
+
 ||Display Name|Username|ID|Robux|
 |:---:|:---|:---|:---:|:---:|
 ||SonicfanYT|@Calebmcswaggy|2631434532|2|
