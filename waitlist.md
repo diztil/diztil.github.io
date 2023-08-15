@@ -8,7 +8,6 @@ jekyll-theme-WuK:
       open: false
 ---
 
-# ROBUX WAITLIST
 The following lists and tables exhibit information related to Distil's YouTube channel and any giveaways that he hosts for his fanatics and supporters on Roblox. If you'd like to be enrolled into the list, too, with your desired amount of robux, then feel free to [contact him on Discord](https://discord.gg/2rBcjwjRdC) or ask in his [Roblox group](https://www.roblox.com/groups/17260541/Fwiends-4-Life#!/about). (Please be patient! Don't be toxic, don't spam or scam!)
 
 **Classes :** 👑 VIP Members & Friends, 🎮 Game Testers, 💎 Sponsors, 🛡️ Social Support, 💘 Love Interest, 🏆 Contest Winner
@@ -23,7 +22,7 @@ The following lists and tables exhibit information related to Distil's YouTube c
 ## Currently Waiting
 
 ||Display Name|Username|ID|Robux|
-|     :---:      |     :---      |     :---      |     :---:      |     :---:     |
+|:---:|:---|:---|:---:|:---:|
 |👑|GWORly|@Mishy2055|4765595653|500|
 |👑|Lumine|@Ceylin1975|66893126|400|
 |👑|zachary|@zacharymcree|920423632|2000|
@@ -53,4 +52,6 @@ The following lists and tables exhibit information related to Distil's YouTube c
 ||Minet|@Fofsasi|4655701135|180|
 ||MyTales|@SoomDoomFoom|1809440425|1100|
 ||Limon|@AmarillaUwu28|2844910749|10|
+||iheartme|@iheartmalandshar|4640299650|20|
+||||||
 
