@@ -1,13 +1,13 @@
-title: Dewan Mukto
+title: Distil
 author:
-  fullname                  : Dewan Mukto
+  fullname                  : Distil
   mail                      : 
-  twitter                   : DewanMukto
-  youtube                   : channel/UCqkQwGyM_xqsFqwNkDCUJJA
+  twitter                   : distil_
+  youtube                   : 
   google_analytics          : 'G-97CY2GDQK9'
 google_analytics_id: 'G-97CY2GDQK9'
 description: > 
-  Official website of the one and only #DewanMukto
+  Official website of the one and only Distil
   <a href="https://instagram.com/dewanmukto">
     <i class="fas fa-instagram" aria-hidden="true"></i>
   </a>
@@ -27,17 +27,17 @@ description: >
   <br/>
 
 
-url: https://dewanmukto.com # 你的域名，例如 https://wu-kan.github.io
+url:  # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 seo:
-  meta_og_title: "Dewan Mukto"
+  meta_og_title: "Distil's Website"
   meta_og_type: "website"
-  meta_og_url: "https://dewanmukto.com/"
-  meta_og_image: "https://cdn.discordapp.com/attachments/817313984264536114/911049061136736256/dewanmukto_bg_2.png"
-  meta_og_description: "Official website of the one and only #DewanMukto"
+  meta_og_url: ""
+  meta_og_image: ""
+  meta_og_description: "Official website of the one and only Distil"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@DewanMukto"
-  meta_twitter_creator: "@DewanMukto"
+  meta_twitter_site: "@distil_"
+  meta_twitter_creator: "@distil_"
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   - scope:
@@ -137,11 +137,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 h2,
                 h3, { 
                   font-family: "icomoon";
-                  src:  url(https://detalk.muxsites.com/assets/vendor/icomoon/icomoon.eot?g4m7fo');
-                  src:  url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.eot?g4m7fo#iefix') format('embedded-opentype'),
-                        url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.ttf?g4m7fo') format('truetype'),
-                        url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.woff?g4m7fo') format('woff'),
-                        url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.svg?g4m7fo#icomoon') format('svg');
+                  src:  url('https://d1stil.github.io/detalk/assets/vendor/icomoon/icomoon.eot?g4m7fo');
+                  src:  url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.eot?g4m7fo#iefix') format('embedded-opentype'),
+                        url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.ttf?g4m7fo') format('truetype'),
+                        url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.woff?g4m7fo') format('woff'),
+                        url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.svg?g4m7fo#icomoon') format('svg');
                   font-weight: normal;
                   font-style: normal; 
                 }
@@ -391,7 +391,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
-                  Dewan Mukto
+                  Distil
                 </div>
               - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
                 <!-- <div>
@@ -540,11 +540,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <style>
               
                 .warp {
-                  background-image: url(/asset/images/dewanmukto_bg.png);
+                  background-image: url(https://pbs.twimg.com/profile_banners/1377981120436858884/1692093840/1500x500);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(/asset/images/dewanmukto_bg.png);
+                    background-image: url(https://pbs.twimg.com/profile_banners/1377981120436858884/1692093840/1500x500);
                   }
                 }
               </style>
