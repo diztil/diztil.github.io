@@ -7,22 +7,7 @@ author:
   google_analytics          : 'G-97CY2GDQK9'
 google_analytics_id: 'G-97CY2GDQK9'
 description: > 
-  Official website of the one and only Distil
-  <a href="https://instagram.com/dewanmukto">
-    <i class="fas fa-instagram" aria-hidden="true"></i>
-  </a>
-  <a href="https://youtube.com/c/DewanMukto">
-    <i class="fas fa-youtube-play" aria-hidden="true"></i>
-  </a>
-  <a href="https://github.com/dmimukto">
-    <i class="fab fa-github" aria-hidden="true"></i>
-  </a>
-  <a href="https://my.mux.com.co">
-    <i class="fa fa-desktop" aria-hidden="true"></i>
-  </a>
-  <a href="https://linkedin.com/in/dewanmukto">
-    <i class="fa fa-briefcase" aria-hidden="true"></i>
-  </a>
+  
 
   <br/>
 
@@ -201,20 +186,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               enable: true
               img: /asset/images/favicon.png # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
-              - title: '<i class="fas fa-home fa-fw"></i> Home'
-                href: /
-              - title: '<i class="fas fa-comments fa-fw"></i> Comments'
-                href: /comments/
-              - title: '<i class="fas fa-tags fa-fw"></i> Tags'
-                href: /tags/
-              - title: '<i class="fas fa-archive fa-fw"></i> Archive'
-                href: /archive/
-              - title: '<i class="fas fa-shopping-bag fa-fw"></i> Shop'
-                href: /shop/
-              - title: '<i class="fas fa-coffee fa-fw"></i> Merch'
-                href: https://patreon.com/join/dewanmukto
-              - title: '<i class="fa fa-rocket" aria-hidden="true"></i> Free Discord Nitro'
-                href: /5039320/
+              
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: false
               full_text_search: true # 可能导致缓慢的搜索和加载
