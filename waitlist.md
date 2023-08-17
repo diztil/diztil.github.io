@@ -22,21 +22,21 @@ The following lists and tables exhibit information related to Distil's YouTube c
 
 ## Currently Waiting
 
-||Display Name|Username|ID|Robux|
-|:---:|:---|:---|:---:|:---:|
-|👑|GWORly|@Mishy2055|4765595653|500|
-|👑|Lumine|@Ceylin1975|66893126|400|
-|👑|zachary|@zacharymcree|920423632|2000|
-|💘|eli|@UrfavElinkaa|3658555516|25000|
-||ace|@Ace0fSpades3|337810255|100|
-|🛡️|Ocelot|@Ocel0tXLS75|1840936673|100|
-||Nxia|@iibluexangell|1867525075|100|
-||KingMiles|@Goldchainplaysroblox|364682372|100|
-||Omniscient|@OmnicientCreature|557424545|100|
-||Shiromimomorio|@catha1234olivia|2550170007|100|
-||RLKnight|@Arlo127011|4922875592|100|
-||sauto|@Nekodatom|4809616892|100|
-|💘|yuna|@yuniesaltaccount|4563548177|20000|
+||Display Name|Username|Robux|
+|:---:|:---|:---|:---:|
+|👑|GWORly|[@Mishy2055](https://www.roblox.com/users/4765595653/profile)|500|
+|👑|Lumine|[@Ceylin1975](https://www.roblox.com/users/66893126/profile)|400|
+|👑|zachary|[@zacharymcree](https://www.roblox.com/users/920423632/profile)|2000|
+|💘|eli|[@UrfavElinkaa](https://www.roblox.com/users/3658555516/profile)|25000|
+||ace|[@Ace0fSpades3](https://www.roblox.com/users/337810255/profile)|100|
+|🛡️|Ocelot|[@Ocel0tXLS75](https://www.roblox.com/users/1840936673/profile)|100|
+||Nxia|[@iibluexangell](https://www.roblox.com/users/1867525075/profile)|100|
+||KingMiles|[@Goldchainplaysroblox](https://www.roblox.com/users/364682372/profile)|100|
+||Omniscient|[@OmnicientCreature](https://www.roblox.com/users/557424545/profile)|100|
+||Shiromimomorio|[@catha1234olivia](https://www.roblox.com/users/2550170007/profile)|100|
+||RLKnight|[@Arlo127011](https://www.roblox.com/users/4922875592/profile)|100|
+||sauto|[@Nekodatom](https://www.roblox.com/users/4809616892/profile)|100|
+|💘|yuna|[@yuniesaltaccount](https://www.roblox.com/users/4563548177/profile)|20000|
 
 ## Previously Paid
 
