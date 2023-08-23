@@ -35,8 +35,9 @@ The following lists and tables exhibit information related to Distil's YouTube c
 ||Omniscient|[@OmnicientCreature](https://www.roblox.com/users/557424545/profile)|100|
 ||Shiromimomorio|[@catha1234olivia](https://www.roblox.com/users/2550170007/profile)|100|
 ||RLKnight|[@Arlo127011](https://www.roblox.com/users/4922875592/profile)|100|
-||sauto|[@Nekodatom](https://www.roblox.com/users/4809616892/profile)|100|
+||sauto|[@Nekodatom](https://www.roblox.com/users/4809616892/profile)|200|
 |💘|yuna|[@yuniesaltaccount](https://www.roblox.com/users/4563548177/profile)|20000|
+||Icy|[@Jailbreak129228](https://www.roblox.com/users/1225906911/profile)|100|
 
 ## Previously Paid
 
