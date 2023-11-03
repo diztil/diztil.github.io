@@ -12,9 +12,6 @@ Last Tuesday, on 15th March, a trio of Islamophobes have attempted to desecrate
 
 The head of the N.L. Muslim Association, Syed Mansoor Pirzada, informed that an eyewitness at the incident had been severely frightened by the oncoming noise. The sounds startled him after completing his prayers and certainly this is not difficult to understand why such a minor disturbance can generate shock of such caliber.
 
-![](https://themuse.ca/wp-content/uploads/2022/03/koshu-kunii-703Fyouo-Qo-unsplash-1024x819.jpg)
-###### Photo by [Koshu Kunii](https://unsplash.com/@koshuuu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 Trauma from previous, more deadly incidents at [Quebec](https://en.wikipedia.org/wiki/Quebec_City_mosque_shooting) have been engraved in the minds of Muslim citizens for years. Thus, even the slightest breeze of violence is enough to distort the waves of the ocean we call peace.
 
 Indeed, the event is worthy of attention from government authorities across Canada since people of the Islamic faith always try to exercise caution against haters and intolerant anti-Islamic extremists. A large portion of [Memorial University](https://www.mun.ca/)'s students (especially international students) are practicing Muslims, and if their place of worship is not as safe a sanctuary as they think, then it will truly be treated as an offence from Canadian society.
