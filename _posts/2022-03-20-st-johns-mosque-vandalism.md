@@ -2,7 +2,7 @@
 layout: post
 title:  "Vandals disrespect place of worship"
 author: dmimukto
-categories: [ news, canada, social issues ]
+categories: [ news, canada, terrorism ]
 image: https://themuse.ca/wp-content/uploads/2022/03/koshu-kunii-703Fyouo-Qo-unsplash-1024x819.jpg
 tags: [st johns mosque, newfoundland mosque vandalism, st johns crisis, st johns islam, memorial university, canada islam]
 published: true
