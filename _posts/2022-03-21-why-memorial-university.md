@@ -13,8 +13,7 @@ If you are reading this, and you are a prospective student at Memorial Universit
 Even if you're a current student at MUN, this article may refine your patriotism towards your beloved educational paradise.
 
 ![](https://miro.medium.com/v2/resize:fit:875/0*A6pokfeURaHYcsrS.jpg)
-
-Photo Credit: Memorial University (Via Flickr)
+###### Photo Credit: Memorial University (Via Flickr)
 
 Low Tuition Fees
 ================
