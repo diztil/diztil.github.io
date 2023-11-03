@@ -2,7 +2,7 @@
 layout: post
 title:  'Traditions Meet Futurism – NL Store Accepts Cryptocurrency?'
 author: dbolder
-categories: [ news ]
+categories: [ news, canada, economics ]
 image: https://themuse.ca/wp-content/uploads/2022/01/jievani-weerasinghe-NHRM1u4GD_A-unsplash-scaled.jpg
 tags: [featured, st johns nl, newfoundland news, st johns news, st johns economy, cryptocurrency, canada economy, business technology]
 ---
