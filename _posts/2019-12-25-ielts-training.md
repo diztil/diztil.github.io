@@ -4,6 +4,7 @@ title : Academic IELTS Training
 author: Dewan Mukto
 date: 2019-12-25
 toc: true
+published: false
 ---
 
 > *Having scored an overall band of 8.5 on my IELTS exam on December 2019, this fueled my appetite to kickstart a non-profit project that provides free resources for everyone's benefit. I am also writing a book to help people aggressively "rip and tear" down their fears and confusions about IELTS and to help others reach their destinations and to mend IELTS candidates' confidence. A student read this book's manuscript version and victoriously achieved an overall score of 8.0 on February 2021. You can, too!*
