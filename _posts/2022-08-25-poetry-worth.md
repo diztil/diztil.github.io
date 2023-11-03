@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Poetry worth $50, $500 and $5000"
+title:  "Poetry worth 50, 500 and 5000 USD"
 description: "How I compose poetry and why I charge 3 different tiers"
 author: dmimukto
 categories: [ literature, poetry ]
