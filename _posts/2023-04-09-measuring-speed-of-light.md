@@ -43,6 +43,8 @@ That's where the power of statistics comes in, and you just sort out the anomalo
 
 If you think all of this is bogus, I wouldn't blame you. But for once, just have a go through the main video which inspired me to plan all of this :
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTn6Ewhb27k?si=aW9Dcj3iIkjLrMCd&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 And if you're a professional physicist or someone with a lot of scientific knowledge, if you think my method is a conceivable way of efficiently measuring the speed of light, feel free to reproduce it in the lab. If not, then feel free to lay down your criticism via comments.
 
 Thanks for your time and hope this also inspires you to tackle some "unsolved" or "unsolvable" problems on your own!
