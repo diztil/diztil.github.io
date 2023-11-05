@@ -3,7 +3,7 @@ layout: post
 title:  "How to get a wev.ovh domain? (Free)"
 description: "Perfect for your casual non-serious web projects"
 author: dmimukto
-categories: [ reviews, malware, analysis ]
+categories: [ reviews, technology, development ]
 published: true
 ---
 
