@@ -7,7 +7,7 @@ jekyll-theme-WuK:
     sidebar:
       open: false
   archive:
-    group_by: "%b %Y" # 见<https://liquid.bootcss.com/filters/date/>
+    group_by: "%Y" # 见<https://liquid.bootcss.com/filters/date/>
     posts_count:
       enable: true # 博文数量统计
       append: " blog posts in total" # 提示语
