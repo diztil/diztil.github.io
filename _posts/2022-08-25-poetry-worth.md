@@ -20,7 +20,7 @@ Before that, a subtle foreword would be beneficial --- in reality, literature wo
 
 Likewise, I simply tag off poetic architecture under three tiers in the sense that I would produce a work of that caliber if and only if a particular client presents that monetary amount for the service of copyright ownership.
 
-Anyways, time for your eyes to 'hear' and caress the superficial qualities of what a typical $50 poem looks like :
+Anyways, time for your eyes to 'hear' and caress the superficial qualities of what a typical 50-dollar poem looks like :
 
 ![](https://miro.medium.com/v2/resize:fit:875/0*keyIjeJEhLI0y-_u)
 ###### Photo by [Aleksandr Ledogorov](https://unsplash.com/es/@breakfast_on_jupiter?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
@@ -58,11 +58,11 @@ HOPE
 
 I'll leave the honorary privilege of criticism and feedback unto you readers, so feel free to let your fingers do the talking.
 
-Moving on, if someone approaches me and throws in a random title or topic to write about, they would obviously need a bit more than just $50 to account for the unique novelty that I guarantee with my skills.
+Moving on, if someone approaches me and throws in a random title or topic to write about, they would obviously need a bit more than just 50 dollars to account for the unique novelty that I guarantee with my skills.
 
-Thus, I usually ask for a $200 compensation for merely a boost in the resourceful rhetoric "spices". And if my clients desire to completely purchase the copyright and ownership to their name (perhaps to misuse my skills for their own personal gain by swapping me out as a 'ghost writer'), they are obliged to submit an additional $250 --- that makes $500 in total.
+Thus, I usually ask for a 200-dollar compensation for merely a boost in the resourceful rhetoric "spices". And if my clients desire to completely purchase the copyright and ownership to their name (perhaps to misuse my skills for their own personal gain by swapping me out as a 'ghost writer'), they are obliged to submit an additional 250 USD --- that makes 500 USD in total.
 
-Wonder what a $500 poem looks like? Here's one plucked freshly off [*Synaesthetic Symphonies*](https://www.wattpad.com/story/180240767-synaesthetic-symphonies), a book on my poetry compilation :
+Wonder what a 500-dollar poem looks like? Here's one plucked freshly off [*Synaesthetic Symphonies*](https://www.wattpad.com/story/180240767-synaesthetic-symphonies), a book on my poetry compilation :
 
 ![](https://miro.medium.com/v2/resize:fit:875/0*Xe9x82LDjKu3h1BS)
 ###### Photo by [Timothy Eberly](https://unsplash.com/@timothyeberly?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
@@ -95,7 +95,7 @@ A WINTRY DAY
 
 Rest assured, though, no one paid for the piece featured above; I wrote it for my school yearbook. For free.
 
-Before we head along the corridor marked with the '$5000-worth poem' (which I believe is the prime attraction for this article), I would like to describe *how* I craft out my poems.
+Before we head along the corridor marked with the '5000-dollars'-worth poem' (which I believe is the prime attraction for this article), I would like to describe *how* I craft out my poems.
 
 To be precisely honest, I myself do not understand *how* I write poetry. It just autonomously arrives and descends down the neural staircase from my brain to my finger muscles. As far as I can recall my past, I have been writing poems since kindergarten (although not of the superior quality of my contemporary instances).
 
@@ -191,7 +191,7 @@ SUNRISE
 > Directing blind plants, making skin tan,\
 > The sun had risen --- every Earthly object now greeting "Hi".
 
-If you believe that the poem is not worthy of being priced so high at the floor value of $5000, feel free to comment what you believe would be the appropriate value.
+If you believe that the poem is not worthy of being priced so high at the floor value of 5000 USD, feel free to comment what you believe would be the appropriate value.
 
 Alas! You have hereby reached the end of this audacious article that apparently audits my arrogance on an atomic level. Just jesting! No matter how highly acclaimed or lowly insulted I am, I never wish to breath for a single 'egoisitic minute', either explicit or implied.
 
