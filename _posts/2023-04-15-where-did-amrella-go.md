@@ -14,7 +14,7 @@ Hopefully, Amrella will be fully launched no later than 2038 and no sooner than 
 
 Till then, take care and stay tuned!
 
-Take your time to review the [Terms and Conditions](https://amrella.wev.ovh/terms-of-service "Terms of Service") and [Privacy Policy](https://amrella.wev.ovh/privacy-policy/ "Privacy Policy") for this new (temporary) platform.
+Take your time to review the [Terms and Conditions](https://amrella.wev.ovh/terms-of-service "Terms of Service") and [Privacy Policy](https://amrella.wev.ovh/privacy-policy "Privacy Policy") for this new (temporary) platform.
 
 And also feel free to purchase some items from the [Shop](https://dmistore.gumroad.com/ "Shop") to provide funding for us!
 
