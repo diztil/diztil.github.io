@@ -5,47 +5,18 @@ permalink: /archive/
 jekyll-theme-WuK:
   default:
     sidebar:
-      open: true
+      open: false
   archive:
     group_by: "%b %Y" # 见<https://liquid.bootcss.com/filters/date/>
     posts_count:
       enable: true # 博文数量统计
       append: " blog posts in total" # 提示语
     pie_chart: # 显示一个标签的饼状统计图，需要引入 mermaid
-      enable: true
+      enable: false
     year_count: true
     toc: # 在正文里显示一个归档的目录
-      enable: true
+      enable: false
 ---
-
-<style>
-body {
-   background-color: #000;    
-   margin: 0;
-   overflow: hidden;
-   background-repeat: no-repeat;
-   
-}
-canvas{
-   position:absolute;
-   left:0;
-   top:0;
-   z-index:-1;
-}
-#canvas{
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-}
-</style>
-<canvas id="canvas" width="100%" height="4000px"></canvas>
-
-<audio preload="auto" autoplay loop>
-   <source src="https://dewanmukto.com/asset/audio/tenno_luna.mp3" type="audio/mpeg" preload="auto" />
-</audio>
-
-<script type="text/javascript" src="https://dewan.dev/psychedelic-bg/script.js" charset="utf-8"></script>
 
 {% if page.jekyll-theme-WuK.archive.posts_count.enable %}
 {{ site.posts.size }}{{ page.jekyll-theme-WuK.archive.posts_count.append }}
