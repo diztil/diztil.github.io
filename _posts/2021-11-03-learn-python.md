@@ -9,7 +9,7 @@ tags:
   - programming
 hero: https://miro.medium.com/max/2000/1*to0Tp8CBi-vbKvu-ljPukg.png
 overlay: yellow
-published: true
+published: false
 ---
 
 So here's a rather fast-paced tutorial on learning the Python language within 120 seconds!
