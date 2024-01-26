@@ -57,6 +57,7 @@ permalink: /books/cooper-black
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.ca/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)|Standard Edition|CAD 71.04|
+
 also see `International / North America` above
 
 ## Czech Republic 🇨🇿
