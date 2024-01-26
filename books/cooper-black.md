@@ -27,6 +27,7 @@ permalink: /books/cooper-black
 ### You can purchase a physical copy from the following stores:
 
 ## International / North America 🇪🇺 🇺🇸 🇨🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Lulu](https://www.lulu.com/shop/dewan-mukto/cooper-black/paperback/product-p6d6ezr.html)|Classic Edition|USD 23.00|
@@ -39,38 +40,45 @@ permalink: /books/cooper-black
 |[Walmart](https://www.walmart.com/ip/Cooper-Black-Paperback-9798880654475/5214578258?from=/search)|Standard Edition|USD 42.53|
 
 ## Australia 🇦🇺
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[BetterRead](https://www.betterread.com.au/book/cooper-black.do)|Standard Edition|AUD 139.89|
 
 ## Bangladesh 🇧🇩
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[The Book Shelf BD](https://www.instagram.com/the_bookshelfbd/)|Standard Edition|BDT 245.00|
 |[The Book Shelf BD](https://www.instagram.com/the_bookshelfbd/)|10 Year Edition|BDT 300.00|
 
 ## Canada 🇨🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.ca/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)|Standard Edition|CAD 71.04|
 also see `International / North America` above
 
 ## Czech Republic 🇨🇿
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Nejlevnejsi Knihy](https://www.nejlevnejsi-knihy.cz/kniha/cooper-black_44567662.html)|Standard Edition|CZK 1,290.00|
 
 ## Denmark 🇩🇰
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Tales](https://tales.dk/cooper-black_dewan-mukto_9798880654475)|Standard Edition|DKK 489.95|
 
 ## France 🇫🇷
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.fr/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)|Standard Edition|EUR 50.90|
 
 ## Germany 🇩🇪
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Autorenwelt](https://shop.autorenwelt.de/products/cooper-black-von-dewan-mukto)|Standard Edition|EUR 52.60|
@@ -80,78 +88,93 @@ also see `International / North America` above
 |[Amazon](https://www.amazon.de/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)| Standard Edition |EUR 52.60|
 
 ## Hungary 🇭🇺
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Libristo](https://www.libristo.hu/hu/konyv/cooper-black_44567662)|Standard Edition|HUF 19,834.00|
 
 ## India 🇮🇳
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.in/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)|Standard Edition|INR 3,528.00|
 
 ## ~~Israel~~ Palestine ~~🇮🇱~~ 🇵🇸
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |N/A|||
 `Stop the war! Booksellers are too scared.`
 
 ## Italy 🇮🇹
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[IBS](https://www.ibs.it/cooper-black-libro-inglese-dewan-mukto/e/9798880654475)|Standard Edition|EUR 44.10|
 
 ## Japan 🇯🇵
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[KinoKuniya](https://www.kinokuniya.co.jp/f/dsg-02-9798880654475)|Standard Edition|JPY 8,536.00|
 |[Amazon](https://www.amazon.co.jp/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)|Standard Edition|JPY 8,663.00|
 
 ## Netherlands 🇳🇱
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Bol](https://www.bol.com/nl/nl/p/cooper-black/9300000169234981/)|Standard Edition|EUR 48.99|
 
 ## New Zealand 🇳🇿
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[MightyApe](https://www.mightyape.co.nz/product/cooper-black/38484946)|Standard Edition|NZD 97.00|
 
 ## Poland 🇵🇱
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Ceneo](https://www.ceneo.pl/161933054)|Standard Edition|PLN 229.21|
 
 ## Singapore 🇸🇬
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.sg/Cooper-Black-Dewan-Mukto/dp/B0CPRQF2JG/)|Standard Edition|SGD 79.04|
 
 ## Slovakia 🇸🇰
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Najlacnejsie Knihy](https://www.najlacnejsie-knihy.sk/kniha/cooper-black_44567662.html)|Standard Edition|EUR 52.06|
 
 ## South Africa 🇿🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Takealot](https://www.takealot.com/cooper-black/PLID94655434)|Standard Edition|ZAR 1,169.00|
 
 ## South Korea 🇰🇷
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Kyobo](https://product.kyobobook.co.kr/detail/S000211644151)|Standard Edition|KRW 70,480.00|
 
 ## Taiwan 🇹🇼
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Sanmin](https://www.sanmin.com.tw/product/index/012693039)|Standard Edition|TWD 1,855.00|
 
 ## United Kingdom 🇬🇧
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=31747355047&searchurl=an%3Dmukto%2Bdewan%26sortby%3D17&cm_sp=snippet-_-srp1-_-image7)|Standard Edition|GBP 33.16|
 
 ## United States 🇺🇸
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Ebay](https://www.ibs.it/cooper-black-libro-inglese-dewan-mukto/e/9798880654475)|Standard Edition|USD 44.90|
