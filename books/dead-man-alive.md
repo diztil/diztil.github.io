@@ -26,6 +26,7 @@ permalink: /books/dead-man-alive
 ### You can purchase a physical copy from the following stores:
 
 ## International / North America 🇪🇺 🇺🇸 🇨🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[**Lulu**](https://www.lulu.com/shop/dewan-mukto/dead-man-alive/paperback/product-nvdwd5e.html?page=1&pageSize=4)|**International Edition**|**USD 5.82**|
@@ -36,17 +37,20 @@ permalink: /books/dead-man-alive
 |[Walmart](https://www.walmart.com/ip/Dead-Man-Alive-Hardcover-9781446740972/5052573773?from=/search)|Standard Edition|USD 29.98|
 
 ## Australia 🇦🇺
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[BetterRead](https://www.betterread.com.au/book/dead-man-alive.do)|Standard Edition|AUD 79.17|
 |[Ebay](https://www.ebay.com.au/itm/134811763928)|Standard Edition|AUD 59.03|
 
 ## Bangladesh 🇧🇩
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[The Book Shelf BD](https://www.instagram.com/the_bookshelfbd/)|Standard Edition|BDT 185.00|
 
 ## Canada 🇨🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Indigo](https://www.indigo.ca/en-ca/dead-man-alive/9781446740972.html)|Standard Edition|CAD 32.45|
@@ -54,16 +58,19 @@ permalink: /books/dead-man-alive
 also see `International / North America` above
 
 ## Czech Republic 🇨🇿
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Nejlevnejsi Knihy](https://www.nejlevnejsi-knihy.cz/kniha/dead-man-alive_44188475.html)|Standard Edition|CZK 747.00|
 
 ## France 🇫🇷
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.fr/Dead-Man-Alive-Dewan-Mukto/dp/1446740978/)|Standard Edition|EUR 29.08|
 
 ## Germany 🇩🇪
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Buchfreund](https://www.buchfreund.de/de/d/e/9781446740972/dead-man-alive?bookId=A47734039&src=2&sellerId=14502)|Standard Edition|EUR 31.86|
@@ -75,68 +82,81 @@ also see `International / North America` above
 |[AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=31639166583&searchurl=an%3Dmukto%2Bdewan%26sortby%3D17&cm_sp=snippet-_-srp1-_-title6)|Standard Edition|EUR 29.50|
 
 ## Hungary 🇭🇺
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Libristo](https://www.libristo.hu/hu/konyv/dead-man-alive_44188475)|Standard Edition|HUF 11,487.00|
 
 ## India 🇮🇳
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.in/Dead-Man-Alive-Dewan-Mukto/dp/1446740978)|Standard Edition|INR 1,743.00|
 
 ## ~~Israel~~ Palestine ~~🇮🇱~~ 🇵🇸
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |N/A|||
 `Stop the war! Booksellers are too scared.`
 
 ## Japan 🇯🇵
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[KinoKuniya](https://www.kinokuniya.co.jp/f/dsg-02-9781446740972)|Standard Edition|JPY 4,831.00|
 |[Amazon](https://www.amazon.co.jp/Dead-Man-Alive-Dewan-Mukto/dp/1446740978/)|Standard Edition|JPY 7,625.00|
 
 ## Netherlands 🇳🇱
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Bol](https://www.bol.com/nl/nl/p/dead-man-alive/9300000161208734/)|Standard Edition|EUR 38.00|
 
 ## New Zealand 🇳🇿
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[MightyApe](https://www.mightyape.co.nz/product/dead-man-alive/38210962)|Standard Edition|NZD 64.00|
 
 ## Singapore 🇸🇬
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.sg/Dead-Man-Alive-Dewan-Mukto/dp/1446740978/)|Standard Edition|SGD 44.63|
 
 ## Slovakia 🇸🇰
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Najlacnejsie Knihy](https://www.najlacnejsie-knihy.sk/kniha/dead-man-alive_44188475.html)|Standard Edition|EUR 30.18|
 
 ## South Africa 🇿🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Takealot](https://www.takealot.com/dead-man-alive/PLID93952466)|Standard Edition|ZAR 725.00|
 
 ## South Korea 🇰🇷
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Kyobo](https://product.kyobobook.co.kr/detail/S000209190561)|Standard Edition|KRW 39,890.00|
 
 ## Taiwan 🇹🇼
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Sanmin](https://www.sanmin.com.tw/product/index/012429181)|Standard Edition|TWD 1,050.00|
 
 ## United Kingdom 🇬🇧
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=31690473013&searchurl=isbn%3D9781446740972%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3)|Standard Edition|GBP 16.92|
 
 ## United States 🇺🇸
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=31711963882&searchurl=an%3Dmukto%2Bdewan%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1)|Standard Edition|USD 24.68|
