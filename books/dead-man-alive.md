@@ -55,6 +55,7 @@ permalink: /books/dead-man-alive
 |:---|:---|:---:|
 |[Indigo](https://www.indigo.ca/en-ca/dead-man-alive/9781446740972.html)|Standard Edition|CAD 32.45|
 |[Amazon](https://www.amazon.ca/Dead-Man-Alive-Dewan-Mukto/dp/1446740978/)|Standard Edition|CAD 32.45|
+
 also see `International / North America` above
 
 ## Czech Republic 🇨🇿
