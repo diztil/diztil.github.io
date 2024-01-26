@@ -25,6 +25,7 @@ permalink: /books/ielts-guide
 ### You can purchase a physical copy from the following stores:
 
 ## International / North America 🇪🇺 🇺🇸 🇨🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[**Lulu**](https://www.lulu.com/shop/dewan-mukto/dewan-muktos-ielts-guide/paperback/product-nvdwdqw.html)|**International Edition**|**USD 5.10**|
@@ -35,16 +36,19 @@ permalink: /books/ielts-guide
 |[Walmart](https://www.walmart.com/ip/IELTS-Guide-Paperback-9798210806888/5126911072?from=/search)|Standard Edition|USD 14.99|
 
 ## Australia 🇦🇺
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[BetterRead](https://www.betterread.com.au/book/ielts-guide.do)|Standard Edition|AUD 39.57|
 
 ## Bangladesh 🇧🇩
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[The Book Shelf BD](https://www.instagram.com/the_bookshelfbd/)|Standard Edition|BDT 180.00|
 
 ## Canada 🇨🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Indigo](https://www.indigo.ca/en-ca/ielts-guide/9798210806888.html)|Standard Edition|CAD 18.76|
@@ -52,16 +56,19 @@ permalink: /books/ielts-guide
 also see `International / North America` above
 
 ## Denmark 🇩🇰
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Tales](https://tales.dk/ielts-guide_dewan-mukto_9798210806888)|Standard Edition|DKK 150.95|
 
 ## France 🇫🇷
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.fr/IELTS-Guide-Dewan-Mukto/dp/B0CLC61CDP/)|Standard Edition|EUR 14.68|
 
 ## Germany 🇩🇪
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=31708226650&searchurl=an%3Dmukto%2Bdewan%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2)|Standard Edition|EUR 17.10|
@@ -70,43 +77,52 @@ also see `International / North America` above
 |[Amazon](https://www.amazon.de/IELTS-Guide-Dewan-Mukto/dp/B0CLC61CDP/)| Standard Edition |EUR 17.10|
 
 ## India 🇮🇳
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.in/IELTS-Guide-Dewan-Mukto/dp/B0CLC61CDP)|Standard Edition|INR 1,108.00|
 
 ## ~~Israel~~ Palestine ~~🇮🇱~~ 🇵🇸
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |N/A|||
+
 `Stop the war! Booksellers are too scared.`
 
 ## Japan 🇯🇵
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[KinoKuniya](https://www.kinokuniya.co.jp/f/dsg-02-9798210806888)|Standard Edition|JPY 2,414.00|
 |[Amazon](https://www.amazon.co.jp/IELTS-Guide-Dewan-Mukto/dp/B0CLC61CDP)|Standard Edition|JPY 5,545.00|
 
 ## Netherlands 🇳🇱
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Bol](https://www.bol.com/nl/nl/p/ielts-guide/9300000164801295/?bltgh=vHRMQx-3Dbdxs8qBCYdF3A.3_10.13.ProductTitle)|Standard Edition|EUR 14.99|
 
 ## New Zealand 🇳🇿
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[MightyApe](https://www.mightyape.co.nz/product/ielts-guide/38271324)|Standard Edition|NZD 39.00|
 
 ## Singapore 🇸🇬
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.sg/IELTS-Guide-Dewan-Mukto/dp/B0CLC61CDP)|Standard Edition|SGD 25.90|
 
 ## South Africa 🇿🇦
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Takealot](https://www.takealot.com/ielts-guide/PLID94097143)|Standard Edition|ZAR 349.00|
 
 ## South Korea 🇰🇷
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Kyobo](https://product.kyobobook.co.kr/detail/S000210714684)|Standard Edition|KRW 19,940.00|
@@ -117,14 +133,17 @@ also see `International / North America` above
 |[Sanmin](https://www.sanmin.com.tw/product/index/012527467)|Standard Edition|TWD 525.00|
 
 ## United Kingdom 🇬🇧
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[AbeBooks](https://www.abebooks.com/servlet/BookDetailsPL?bi=31747355047&searchurl=an%3Dmukto%2Bdewan%26sortby%3D17&cm_sp=snippet-_-srp1-_-image7)|Standard Edition|GBP 33.16|
 
 ## United States 🇺🇸
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Thriftbooks](https://www.thriftbooks.com/w/ielts-guide_dewan-mukto/51148568/#edition=70070481&idiq=61732187)|Standard Edition|USD 13.89|
+
 also see `International / North America` above
 
 ### Read Online for Free
