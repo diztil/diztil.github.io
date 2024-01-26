@@ -53,6 +53,7 @@ permalink: /books/ielts-guide
 |:---|:---|:---:|
 |[Indigo](https://www.indigo.ca/en-ca/ielts-guide/9798210806888.html)|Standard Edition|CAD 18.76|
 |[Amazon](https://www.amazon.ca/IELTS-Guide-Dewan-Mukto/dp/B0CLC61CDP/)|Standard Edition|CAD 18.76|
+
 also see `International / North America` above
 
 ## Denmark 🇩🇰
