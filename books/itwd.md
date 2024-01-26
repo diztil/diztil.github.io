@@ -56,6 +56,7 @@ permalink: /books/itwd
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.ca/Wildest-Dimensions-01-Dewan-Mukto/dp/B0CS4P4QJP/)|Standard Edition|CAD 53.70|
+
 also see `International / North America` above
 
 ## Denmark 🇩🇰
@@ -130,9 +131,6 @@ also see `International / North America` above
 |[Sanmin](https://www.sanmin.com.tw/product/index/012805759)|Standard Edition|TWD 1,800.00|
 
 ## United States 🇺🇸
-
-|Vendor|Edition|Price|
-|:---|:---|:---:|
 
 see `International / North America` above
 
