@@ -19,19 +19,19 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2015
 ----
 
--   [Blockaterra Legends](https://www.webnovel.com/book/blockaterra-legends-a-minecraft-fanfiction_26129572006363905)
+-   Blockaterra Legends
 
 2016
 ----
 
--   [Cooper Black](https://play.google.com/store/books/details/Dewan_Mukto_Cooper_Black_Classic_Edition_2016?id=blWIEAAAQBAJ) `ISBN 9781446748886`
+-   [Cooper Black](/books/cooper-black)
 
 2017
 ----
 
--   [Knightspeak](https://play.google.com/store/books/details/Dewan_Mukto_Knightspeak?id=ji_WEAAAQBAJ)
--   [Dead Man Alive](https://play.google.com/store/books/details/Dewan_Mukto_Dead_Man_Alive?id=wi_WEAAAQBAJ) `ISBN 9781446740972`
--   [A Khajiit's Tale : A Skyrim Fanfiction](https://play.google.com/store/books/details/Dewan_Mukto_A_Khajiit_s_Tale?id=yyGIEAAAQBAJ) `ISBN 9781387635672`
+-   Knightspeak
+-   [Dead Man Alive](/books/dead-man-alive)
+-   [A Khajiit's Tale : A Skyrim Fanfiction](https://play.google.com/store/books/details/Dewan_Mukto_A_Khajiit_s_Tale?id=yyGIEAAAQBAJ)
 
 2018
 ----
@@ -45,30 +45,35 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2019
 ----
 
--   [Synaesthetic Symphonies](https://play.google.com/store/books/details/Dewan_Mukto_Synaesthetic_Symphonies?id=-5bTEAAAQBAJ) `ISBN 9781446750544`
+-   [Synaesthetic Symphonies](/books/syn-sym)
 -   Cooper Black : Disarrayed Dimensions
--   [One One One: Colors of Infinite Grief](https://play.google.com/store/books/details/Dewan_Mukto_Colors_Of_Infinite_Grief?id=uz3WEAAAQBAJ) `ISBN 9781446740286`
--   [Dewan Mukto's IELTS Guide](https://play.google.com/store/books/details/Dewan_Mukto_Dewan_Mukto_s_IELTS_Guide?id=yi7WEAAAQBAJ) `ISBN 9781446741153`
+-   One One One: Colors of Infinite Grief
+-   [Dewan Mukto's IELTS Guide](/books/ielts-guide)
 
 2020
 ----
 
 -   Renaissa
--   [One One One : Under A Corrupt Sun](https://play.google.com/store/books/details/Dewan_Mukto_Under_A_Corrupt_Sun?id=-zLWEAAAQBAJ) `ISBN 9781446740903`
+-   One One One : Under A Corrupt Sun
 
 2021
 ----
 
--   [One One One : The Only Missing Piece](https://play.google.com/store/books/details/Dewan_Mukto_The_Only_Missing_Piece?id=jT3WEAAAQBAJ)
+-   One One One : The Only Missing Piece
 
 2022
 ----
 
 -   Cooper Black : The Hombre
--   Serpent-Skinned Sapiens
--   [The Inkmaster](https://www.webnovel.com/book/the-inkmaster_24195556306955805)
+-   Sapien-Skinned Serpents
+-   ~~The Inkmaster~~ [Prison of Sentience](https://www.webnovel.com/book/24195556306955805)
 
 2023
 ----
 
--   In The Wildest Dimensions
+-   [In The Wildest Dimensions](/books/itwd)
+
+2024
+----
+
+- [Genesis Era](https://www.webnovel.com/book/genesis-era_28425689800238505)
