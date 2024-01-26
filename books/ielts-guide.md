@@ -129,6 +129,7 @@ also see `International / North America` above
 |[Kyobo](https://product.kyobobook.co.kr/detail/S000210714684)|Standard Edition|KRW 19,940.00|
 
 ## Taiwan 🇹🇼
+
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Sanmin](https://www.sanmin.com.tw/product/index/012527467)|Standard Edition|TWD 525.00|
