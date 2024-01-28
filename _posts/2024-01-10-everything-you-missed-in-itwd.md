@@ -7,7 +7,7 @@ categories: [ reviews, books, references ]
 published: true
 ---
 
-"In The Wildest Dimensions" is a mystery/thriller novel, fueled by dark fantasy and romance, by Dewan Mukto under the pseudonym of his mascot, Distil. The tale begins with a detective on vacation who discovers a strange set of events that leads him to ultimately question his entire existence. ITWD is a story of memory loss and trust, and how truth is often warped in ways we don't understand.
+"[In The Wildest Dimensions](/books/itwd)" is a mystery/thriller novel, fueled by dark fantasy and romance, by Dewan Mukto under the pseudonym of his mascot, Distil. The tale begins with a detective on vacation who discovers a strange set of events that leads him to ultimately question his entire existence. ITWD is a story of memory loss and trust, and how truth is often warped in ways we don't understand.
 
 This article explores some of the interesting references hidden in plain sight along the lines of the story.
 
