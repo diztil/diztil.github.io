@@ -5,7 +5,7 @@ description: A compilation of aesthetic poetry written by Dewan Mukto during his
 permalink: /books/syn-sym
 ---
 
-![Book cover](https://media.discordapp.net/attachments/1001985990065406173/1198942832656912404/pika-1705920598113-1x.png?ex=65c0bd86&is=65ae4886&hm=9a3c5af5d1ca4a80012c8060ab0cc9cf575383ed15070cd408b70c113a6d546b&=&format=webp&quality=lossless&width=1130&height=592)
+![Book cover](/asset/images/book03.png)
 
 # Blurb
 ### A compilation of aesthetic poetry written by Dewan Mukto during his high school days back in 2018-19. Featuring textual artworks spanning 3 episodes: Nature, Emotion and Abstract.
