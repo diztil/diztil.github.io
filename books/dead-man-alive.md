@@ -5,7 +5,7 @@ description: An unsuspecting NYPD officer encounters a freak weather storm, land
 permalink: /books/dead-man-alive
 ---
 
-![Book cover](https://media.discordapp.net/attachments/1001985990065406173/1198934603000463388/pika-1705918589771-1x.png?ex=65c0b5dc&is=65ae40dc&hm=68c3df0bc3ad9a71113c24075944d6a5aa93e592a8db3d2ae321504415b5d8dc&=&format=webp&quality=lossless&width=1130&height=592)
+![Book cover](/asset/images/book02.png)
 
 # Blurb
 ### An unsuspecting NYPD officer encounters a freak weather storm, lands at a café, and discovers an unending layer of reality enticed by cultists practicing underneath the shield of society. 
