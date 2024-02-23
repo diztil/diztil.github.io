@@ -5,7 +5,7 @@ description: A guide book for helping IELTS candidates achieve a band score of 8
 permalink: /books/ielts-guide
 ---
 
-![Book cover](https://media.discordapp.net/attachments/1001985990065406173/1198953284497575986/pika-1705923114663-1x.png?ex=65c0c742&is=65ae5242&hm=2934e8ce2440e7e66a4188325ab31310013ab328fcf995ebc8df08d13e9d74a8&=&format=webp&quality=lossless&width=1130&height=592)
+![Book cover](/asset/images/book04.png)
 
 # Blurb
 ### Dewan M.I. Mukto wrote this book to help people aggressively "rip and tear" down their fears and confusions about IELTS and to help others reach their destinations and to mend every such candidate’s confidence. He himself had scored an overall band of 8.5 on his IELTS exam on December 2019. This fueled his appetite to kickstart a mini project that provides resources for everyone's benefit.
