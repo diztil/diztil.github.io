@@ -5,7 +5,7 @@ description: A silly urban story about some outlaws trying to quarrel with other
 permalink: /books/cooper-black
 ---
 
-![Book cover](https://media.discordapp.net/attachments/1001985990065406173/1198927188276301945/pika-1705916823386-1x.png?ex=65c0aef4&is=65ae39f4&hm=dfbdc0113dd1472b68961e2dc5c2fa89364c748f3e5818bf5f9ebafb093f8e75&=&format=webp&quality=lossless&width=1130&height=592)
+![Book cover](/asset/images/book01.png)
 
 # Blurb
 ### American outlaws try to reclaim the money they lent to other criminals. On the way, they are contacted by an anti-criminal organization to carry out a set number of missions to try to earn some more money. At the same time, foreign troops invade the United States and it is now upto the reckless outlaws, the pure agents of chaos, to bring peace home to the nation.
