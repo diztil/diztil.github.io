@@ -5,7 +5,7 @@ description: A detective on vacation discovers a strange set of events that lead
 permalink: /books/itwd
 ---
 
-![Book cover](https://media.discordapp.net/attachments/1001985990065406173/1198964375046860821/pika-1705925773217-1x.png?ex=65c0d196&is=65ae5c96&hm=195ce3c7930be41f0f1786a0df10f5738c8b40599f0ecfda8136c0ce116b36b3&=&format=webp&quality=lossless&width=1130&height=592)
+![Book cover](/asset/images/book05.png)
 
 # Blurb
 ### Unbeknownst to a detective on vacation, he falls down a staircase of disaster as his life begins to take form in the shape of desperation surrounded by guilt.
