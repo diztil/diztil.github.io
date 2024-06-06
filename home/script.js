@@ -1,4 +1,28 @@
-    function showCategory(category) {
+// Wait for the DOM to be fully loaded before executing JavaScript
+document.addEventListener("DOMContentLoaded", function() {
+    // Get the intro video element
+    const introVideo = document.getElementById('introVideo');
+
+    // Pause the video when it ends
+    introVideo.addEventListener('ended', function() {
+        fadeOutIntroVideo();
+    });
+});
+
+// Function to fade out the intro video and remove it from the DOM
+function fadeOutIntroVideo() {
+    const introVideoOverlay = document.getElementById('introVideoOverlay');
+
+    // Apply fade out animation
+    introVideoOverlay.style.animation = 'fadeOut 1s forwards';
+
+    // Remove the intro video overlay from the DOM after the animation ends
+    introVideoOverlay.addEventListener('animationend', function() {
+        introVideoOverlay.remove();
+    });
+}
+
+function showCategory(category) {
         const content = document.getElementById('content');
         content.innerHTML = ''; // Clear existing content
 
