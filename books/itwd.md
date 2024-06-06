@@ -56,6 +56,11 @@ permalink: /books/itwd
 |Vendor|Edition|Price|
 |:---|:---|:---:|
 |[Amazon](https://www.amazon.ca/Wildest-Dimensions-01-Dewan-Mukto/dp/B0CS4P4QJP/)|Standard Edition|CAD 53.70|
+|[Coles](https://niagarapencentre.com/shop/product/in-the-wildest-dimensions-by-dewan-mukto-hardcover-indigo-chapters-coles-ec4244)|Standard Edition|CAD 42.73|
+|[Yorkdale](https://yorkdale.com/shop/product/in-the-wildest-dimensions-by-dewan-mukto-hardcover-indigo-chapters-indigobooks-ec4244?model=0&variant=0)|Standard Edition|CAD 42.73|
+|[Halifax Shopping Center](https://halifaxshoppingcentre.com/shophsc/product/in-the-wildest-dimensions-by-dewan-mukto-hardcover-indigo-chapters-coles-ec4244?model=0&variant=0)|Standard Edition|CAD 42.73|
+|[SquareOne](https://shopsquareone.com/shop/product/in-the-wildest-dimensions-by-dewan-mukto-hardcover-indigo-chapters-indigobooks-ec4244)|Standard Edition|CAD 42.73|
+|[Chapters](https://www.indigo.ca/en-ca/in-the-wildest-dimensions-volume-01/9798880533060.html?searchType=products&searchTerm=Dewan%20Mukto%20&relatedTerms=dewan%20mukto)|Standard Edition|CAD 42.73|
 
 also see `International / North America` above
 
