@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dewan Mukto's Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="logo-container">
+                <img src="logo.png" alt="Logo" class="logo">
+                <span class="wordmark">DEWAN MUKTO</span>
+            </div>
+            <div class="categories-nav" id="categoriesNav">
+                <button class="nav-arrow up-arrow" onclick="scrollCategories(-1)">◀</button>
+                <div class="categories-container">
+                    <div class="categories" id="categoriesList">
+                        <button class="category-btn" onclick="showCategory('books')">Books</button>
+                        <button class="category-btn" onclick="showCategory('designs')">Designs</button>
+                        <button class="category-btn" onclick="showCategory('articles')">Articles</button>
+                        <!-- Additional categories can be added here -->
+                        <button class="category-btn" onclick="showCategory('apps')">Apps</button>
+                    </div>
+                </div>
+                <button class="nav-arrow down-arrow" onclick="scrollCategories(1)">▶</button>
+            </div>
+        </div>
+        <div class="content" id="content">
+            <!-- Content will be loaded here dynamically -->
+        </div>
+    </div>
+
+    <div id="popup" class="popup">
+        <button id="closePopup" class="close-popup" onclick="closePopup()">✖</button>
+        <iframe id="popupIframe" src="" frameborder="0"></iframe>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
