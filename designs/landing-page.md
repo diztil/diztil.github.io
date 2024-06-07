@@ -8,9 +8,6 @@ jekyll-theme-WuK:
       open: false
 ---
 
-Custom landing page for Unico
-=============================
-
 ![Custom landing page for Unico](https://cdn.dribbble.com/users/10894594/screenshots/19622554/media/2f87efc0141aea0b41250f876f2d128b.png?resize=400x300&vertical=center)
 
 There's a particular graphics designer that I admire, named Unico (available as [Unico101](https://dribbble.com/unico101)) on Dribbble.
@@ -23,6 +20,7 @@ Rather than rely on visual designing tools, I hard-coded the entire layout of th
 
 The full source of the website is available on [Codepen](https://codepen.io/distil/pen/BaxvpOX).
 
-[View on Dribbble](https://dribbble.com/shots/19622554-Custom-landing-page-for-Unico) 
+## For full resolution images:
+[(View on Dribbble)](https://dribbble.com/shots/19622554-Custom-landing-page-for-Unico) 
 
-[View on Behance](https://www.behance.net/gallery/180764133/Landing-Page-Renovation)
+[(View on Behance)](https://www.behance.net/gallery/180764133/Landing-Page-Renovation)
