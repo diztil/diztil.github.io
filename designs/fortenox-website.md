@@ -8,9 +8,6 @@ jekyll-theme-WuK:
       open: false
 ---
 
-Musical Website UI Concept - Fortenox
-=====================================
-
 **Fortenox** is a rising Canadian **musical producer** and **DJ** (and a trusted friend of mine!)
 
 ![](https://cdn.dribbble.com/userupload/10753086/file/original-5d7b081dbacb3920b0cdf1297c8fe88b.png?resize=752x)
@@ -21,4 +18,6 @@ This is just a **visual representation of a new website** that I have proposed
 
 Also take a look at a slightly alternate version of this [landing page design on Behance](https://www.behance.net/gallery/182194675/Website-for-Fortenox).
 
-[View on Dribbble](https://dribbble.com/shots/22817511-Musical-Website-UI-Concept-Fortenox)
+## For full resolution images:
+
+[(View on Dribbble)](https://dribbble.com/shots/22817511-Musical-Website-UI-Concept-Fortenox)
