@@ -8,9 +8,6 @@ jekyll-theme-WuK:
       open: false
 ---
 
-Social Platform Themes
-======================
-
 [![](https://cdn.dribbble.com/userupload/10781299/file/original-37f8b9a61c80c29ad926eda341cf6e58.png?resize=752x)](https://cdn.dribbble.com/userupload/10781299/file/original-37f8b9a61c80c29ad926eda341cf6e58.png?resize=752x)
 
 **Amrella** is a new social platform that promises data security and user privacy with a no-distractions policy. Here, I have outlined **5** new themes for the platform. Let me know your feedback 😋👍
@@ -21,6 +18,8 @@ Social Platform Themes
 
 ![](https://cdn.dribbble.com/userupload/10781301/file/original-bfbb03ff918317042d500cf89adc1a52.png?resize=752x)
 
-[View on Dribbble](https://dribbble.com/shots/22827533-Social-Platform-Themes)
+## For full resolution images:
 
-[View on Behance](https://www.behance.net/gallery/182307861/Social-Platform-UI)
+[(View on Dribbble)](https://dribbble.com/shots/22827533-Social-Platform-Themes)
+
+[(View on Behance)](https://www.behance.net/gallery/182307861/Social-Platform-UI)
