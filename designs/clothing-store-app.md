@@ -8,9 +8,6 @@ jekyll-theme-WuK:
       open: false
 ---
 
-Clothing Store App UI
-=====================
-
 [![](https://cdn.dribbble.com/userupload/10781386/file/original-111b7e6e6f34a4ab027e88e77e393a6f.png?resize=752x)](https://cdn.dribbble.com/userupload/10781386/file/original-111b7e6e6f34a4ab027e88e77e393a6f.png?resize=752x)
 
 **Mario's** is a fictional clothing brand that aims at selling weather-influential apparel to people of all ages and sizes. Especially **water-proof and winter clothing**.
@@ -44,6 +41,8 @@ The name **Mario's Weather Wearhouse** is a fictional brand and as such, shoul
 
 All images were constructed manually by me and have no affiliation with any of their references. This excludes the photographs, which were collected via **Canva**'s inventory of free-to-use images.
 
-[View on Dribbble](https://dribbble.com/shots/22827561-Clothing-Store-App-UI)
+## For full resolution images:
 
-[View on Behance](https://www.behance.net/gallery/182308809/Clothing-App-UI)
+[(View on Dribbble)](https://dribbble.com/shots/22827561-Clothing-Store-App-UI)
+
+[(View on Behance)](https://www.behance.net/gallery/182308809/Clothing-App-UI)
