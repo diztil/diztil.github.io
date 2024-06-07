@@ -19,7 +19,8 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2015
 ----
 
--   Blockaterra Legends
+- ~~Action Heroes~~ (Part of Cooper Black)
+- Blockaterra Legends
 
 2016
 ----
@@ -77,3 +78,4 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 ----
 
 - [Genesis Era](https://www.webnovel.com/book/genesis-era_28425689800238505)
+- Sun of a Beach
