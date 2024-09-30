@@ -27,30 +27,30 @@ This smartphone is meant for those who are not familiar with how to use Android 
 
 | Component | Model | Specification | Price |
 |:---|:---:|:---:|:---:|
-| ⚙️ SoC | MediaTek MT6580 | Quad-core 1.3GHz CPU Cortex-A7 | $4-$6 |
-| 📱 Display | Tianma 4.0" | 480x800 TFT LCD | $3-$5 |
-| 🔋 Battery | (Generic) | 1500mAh 3.7V Li-ion | $1.50-$2 |
-| 💾 Internal Mem. | (Generic) | 4GB eMMC | $1-$2 |
-| 📀 RAM | (Generic) | 512MB DDR3 | $1-$2 |
-| 📸 Rear Camera | GC0328 | 2MP | $1-$2 |
-| 📷 Front Camera | (Generic) | 0.3MP VGA | $1-$2 |
-| 🎛️ OS | Android | Go | $0-$1 |
-| 🛜 Connectivity | Quectel EC20 | 3G/LTE, Wi-Fi, Bluetooth | $5-$6 |
-| 🔉 Speaker | (Generic)| 10mm | < $1 |
-| 🎙️ Microphone | (Generic) | MEMS | < $1 |
-| 🔌 Ports | (Generic) | Micro-USB 2.0 | < $1 |
-| 🪪 SIM | (Generic) | Standard SIM Slot | < $1 |
-| 🌡️ Sensors | MPU6050 | Accelerometer + Gyroscope | < $1 |
-| 📲 Housing | (Generic) | Polycarbonate Case (Injection-molded) | $1-$2 |
+| ⚙️ SoC | MediaTek MT6580 | Quad-core 1.3GHz CPU Cortex-A7 | USD 4-USD 6 |
+| 📱 Display | Tianma 4.0" | 480x800 TFT LCD | USD 3-USD 5 |
+| 🔋 Battery | (Generic) | 1500mAh 3.7V Li-ion | USD 1.50-USD 2 |
+| 💾 Internal Mem. | (Generic) | 4GB eMMC | USD 1-USD 2 |
+| 📀 RAM | (Generic) | 512MB DDR3 | USD 1-USD 2 |
+| 📸 Rear Camera | GC0328 | 2MP | USD 1-USD 2 |
+| 📷 Front Camera | (Generic) | 0.3MP VGA | USD 1-USD 2 |
+| 🎛️ OS | Android | Go | USD 0-USD 1 |
+| 🛜 Connectivity | Quectel EC20 | 3G/LTE, Wi-Fi, Bluetooth | USD 5-USD 6 |
+| 🔉 Speaker | (Generic)| 10mm | < USD 1 |
+| 🎙️ Microphone | (Generic) | MEMS | < USD 1 |
+| 🔌 Ports | (Generic) | Micro-USB 2.0 | < USD 1 |
+| 🪪 SIM | (Generic) | Standard SIM Slot | < USD 1 |
+| 🌡️ Sensors | MPU6050 | Accelerometer + Gyroscope | < USD 1 |
+| 📲 Housing | (Generic) | Polycarbonate Case (Injection-molded) | USD 1-USD 2 |
 
-+ Custom PCB Layout [ $2-$3 ]
-+ Misc. Screws etc. [ $0.5 ]
-+ Packaging [ $2-$3 ]
++ Custom PCB Layout [ USD 2-USD 3 ]
++ Misc. Screws etc. [ USD 0.5 ]
++ Packaging [ USD 2-USD 3 ]
 
-#### Max. Cost = $38
-#### Rec. Selling Price = $40
+#### Max. Cost = USD 38
+#### Rec. Selling Price = USD 40
 
-> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below $30 and then sell each device for only **$30-$35**!
+> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below USD 30 and then sell each device for only **USD 30-USD 35**!
 
 <br /><br />
 
@@ -59,30 +59,30 @@ This smartphone would be considered the "entry-level" basic for a satisfactory i
 
 | Component | Model | Specification | Price |
 |:---|:---:|:---:|:---:|
-| ⚙️ SoC | MediaTek Helio P22 | Octa-core 2.0GHz CPU Cortex-A53, Mali G52 GPU | $10-$12 |
-| 📱 Display | 6.0" | 720x1440 IPS LCD | $8-$10 |
-| 🔋 Battery | (Generic) | 3000mAh-4000mAh Li-ion | $3-$5 |
-| 💾 Internal Mem. | (Generic) | 32GB eMMC | $4-$5 |
-| 📀 RAM | (Generic)| 3GB LPDDR3 | $4-$5 |
-| 📸 Rear Camera | OmniVision | 13MP | $3-$5 |
-| 📷 Front Camera | Sony IMX | 5MP | $2-$3 |
-| 🎛️ OS | Android | 11/12 (Go Edition) | $0-$1 |
-| 🛜 Connectivity | Quectel EC21 | 4G LTE, Wi-Fi, Bluetooth 5.0, GPS | $6-$8 |
-| 🔉 Speaker | (Generic) | 10mm | $1-$1.50 |
-| 🎙️ Microphone | (Generic) | MEMS | $1-$1.50 |
-| 🔌 Ports | (Generic) | USB Type-C 2.0 | < $1 |
-| 🪪 SIM | (Generic) | Dual Nano-SIM Slot | < $1 |
-| 🌡️ Sensors | MPU6050 | Accelerometer + Gyroscope | < $1 |
-| 📲 Housing | (Generic) | Aluminium Case | $4-$6 |
+| ⚙️ SoC | MediaTek Helio P22 | Octa-core 2.0GHz CPU Cortex-A53, Mali G52 GPU | USD 10-USD 12 |
+| 📱 Display | 6.0" | 720x1440 IPS LCD | USD 8-USD 10 |
+| 🔋 Battery | (Generic) | 3000mAh-4000mAh Li-ion | USD 3-USD 5 |
+| 💾 Internal Mem. | (Generic) | 32GB eMMC | USD 4-USD 5 |
+| 📀 RAM | (Generic)| 3GB LPDDR3 | USD 4-USD 5 |
+| 📸 Rear Camera | OmniVision | 13MP | USD 3-USD 5 |
+| 📷 Front Camera | Sony IMX | 5MP | USD 2-USD 3 |
+| 🎛️ OS | Android | 11/12 (Go Edition) | USD 0-USD 1 |
+| 🛜 Connectivity | Quectel EC21 | 4G LTE, Wi-Fi, Bluetooth 5.0, GPS | USD 6-USD 8 |
+| 🔉 Speaker | (Generic) | 10mm | USD 1-USD 1.50 |
+| 🎙️ Microphone | (Generic) | MEMS | USD 1-USD 1.50 |
+| 🔌 Ports | (Generic) | USB Type-C 2.0 | < USD 1 |
+| 🪪 SIM | (Generic) | Dual Nano-SIM Slot | < USD 1 |
+| 🌡️ Sensors | MPU6050 | Accelerometer + Gyroscope | < USD 1 |
+| 📲 Housing | (Generic) | Aluminium Case | USD 4-USD 6 |
 
-+ Custom PCB Layout [ $2-$3 ]
-+ Misc. Screws etc. [ $0.5 ]
-+ Packaging [ $5-$8 ]
++ Custom PCB Layout [ USD 2-USD 3 ]
++ Misc. Screws etc. [ USD 0.5 ]
++ Packaging [ USD 5-USD 8 ]
 
-#### Max. Cost = $78
-#### Rec. Selling Price = $90
+#### Max. Cost = USD 78
+#### Rec. Selling Price = USD 90
 
-> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below $70 and then sell each device for only **$70-$80**!
+> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below USD 70 and then sell each device for only **USD 70-USD 80**!
 
 <br /><br />
 
@@ -91,30 +91,30 @@ Now, this is the smartphone desired by the majority of consumers - solely for th
 
 | Component | Model | Specification | Price |
 |:---|:---:|:---:|:---:|
-| ⚙️ SoC | Qualcomm Snapdragon 720G  | Octa-core 2.3GHz CPU Kryo 465, Adreno 618 GPU | $25-$35 |
-| 📱 Display | 6.5" | 1080x2400 AMOLED 90Hz | $30-$40 |
-| 🔋 Battery | (Generic) | 4000mAh-5000mAh Li-ion | $5-$8 |
-| 💾 Internal Mem. | (Generic) | 128GB UFS 2.1 | $10-$15 |
-| 📀 RAM | (Generic)| 6GB LPDDR4X | $10 |
-| 📸 Rear Camera | Sony IMX586 | 48MP + 8MP Ultra-wide + 5MP Macro | $20-$25 |
-| 📷 Front Camera | Samsung ISOCELL GM1 | 16MP | $5-$10 |
-| 🎛️ OS | Android | 12 | $0-$1 |
-| 🛜 Connectivity | Quectel EC25-AF | 4G LTE, Wi-Fi 5, Bluetooth 5.1, GPS, NFC | $8-$12 |
-| 🔉 Speaker | (Generic) | Stereo | $3-$5 |
-| 🎙️ Microphone | (Generic) | High-sensitivity MEMS | $2-$5 |
-| 🔌 Ports | (Generic) | USB Type-C 3.0 Port, 3.5mm Audio Jack | $1-$3 |
-| 🪪 SIM | (Generic) | Hybrid Dual SIM Slot | $1-$3 |
-| 🌡️ Sensors | MPU9250 | Gyroscope + Accelerometer, Proximity Sensor, Light Sensor, Fingerprint Sensor (In-display) | $4-$6 |
-| 📲 Housing | (Generic) | Aluminium Case | $4-$6 |
+| ⚙️ SoC | Qualcomm Snapdragon 720G  | Octa-core 2.3GHz CPU Kryo 465, Adreno 618 GPU | USD 25-USD 35 |
+| 📱 Display | 6.5" | 1080x2400 AMOLED 90Hz | USD 30-USD 40 |
+| 🔋 Battery | (Generic) | 4000mAh-5000mAh Li-ion | USD 5-USD 8 |
+| 💾 Internal Mem. | (Generic) | 128GB UFS 2.1 | USD 10-USD 15 |
+| 📀 RAM | (Generic)| 6GB LPDDR4X | USD 10 |
+| 📸 Rear Camera | Sony IMX586 | 48MP + 8MP Ultra-wide + 5MP Macro | USD 20-USD 25 |
+| 📷 Front Camera | Samsung ISOCELL GM1 | 16MP | USD 5-USD 10 |
+| 🎛️ OS | Android | 12 | USD 0-USD 1 |
+| 🛜 Connectivity | Quectel EC25-AF | 4G LTE, Wi-Fi 5, Bluetooth 5.1, GPS, NFC | USD 8-USD 12 |
+| 🔉 Speaker | (Generic) | Stereo | USD 3-USD 5 |
+| 🎙️ Microphone | (Generic) | High-sensitivity MEMS | USD 2-USD 5 |
+| 🔌 Ports | (Generic) | USB Type-C 3.0 Port, 3.5mm Audio Jack | USD 1-USD 3 |
+| 🪪 SIM | (Generic) | Hybrid Dual SIM Slot | USD 1-USD 3 |
+| 🌡️ Sensors | MPU9250 | Gyroscope + Accelerometer, Proximity Sensor, Light Sensor, Fingerprint Sensor (In-display) | USD 4-USD 6 |
+| 📲 Housing | (Generic) | Aluminium Case | USD 4-USD 6 |
 
-+ Custom PCB Layout [ $2-$3 ]
-+ Misc. Screws etc. [ $0.5 ]
-+ Packaging [ $5-$8 ]
++ Custom PCB Layout [ USD 2-USD 3 ]
++ Misc. Screws etc. [ USD 0.5 ]
++ Packaging [ USD 5-USD 8 ]
 
-#### Max. Cost = $196
-#### Rec. Selling Price = $300
+#### Max. Cost = USD 196
+#### Rec. Selling Price = USD 300
 
-> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below $190 and then sell each device for **$190-$200**!
+> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below USD 190 and then sell each device for **USD 190-USD 200**!
 
 <br /><br />
 
@@ -123,31 +123,31 @@ Welcome to the beginning of the high-end territory. From here onwards, expect th
 
 | Component | Model | Specification | Price |
 |:---|:---:|:---:|:---:|
-| ⚙️ SoC | Qualcomm Snapdragon 8 Gen 2 | Octa-core 3.2GHz CPU Kryo 780, Adreno 740 GPU | $100-$110 |
-| 📱 Display | 6.8" | 1440x3200 LTPO OLED 144Hz | $70-$85 |
-| 🔋 Battery | (Generic) | 5000mAh Li-ion (65W Fast Charging + 15W Wireless Charging) | $10-$15 |
-| 💾 Internal Mem. | (Generic) | 512GB UFS 3.1 | $50-$55 |
-| 📀 RAM | (Generic)| 12GB LPDDR5 | $20-$35 |
-| 📸 Rear Camera | Samsung HM3 | 108MP Wide + 16MP Ultrawide + 10MP Periscope Telephoto with OIS, 5x Optical Zoom | $40-$45 |
-| 📷 Front Camera | Samsung HM3 | 32MP | $35-$40 |
-| 🎛️ OS | Android | 12 | $0-$1 |
-| 🛜 Connectivity | Qualcomm X60 | 5G, Wi-Fi 6E, Bluetooth 5.2, GPS/GLONASS | $25-$30 |
-| 🔉 Speaker | (Generic) | Dual Stereo | $4-$6 |
-| 🎙️ Microphone | (Generic) | Triple MEMS Microphones (Noise Cancellation) | $5-$9 |
-| 🔌 Ports | (Generic) | USB Type-C 3.1 Port, 3.5mm Audio Jack | $2-$4 |
-| 🪪 SIM | (Generic) | Hybrid Dual SIM Slot | $1-$3 |
-| 🌡️ Sensors | MPU9250 | Gyroscope + Accelerometer, Proximity Sensor, Light Sensor, Fingerprint Sensor (In-display) | $4-$6 |
-| 📲 Housing | (Generic) | Ceramic Back with Aluminum Frame (IP68 Water and Dust Resistant) | $40-$50 |
-| ⚡ Wireless Charging | (Generic) | 15W Wireless Charging + 10W Reverse Wireless Charging | $5-$10 |
+| ⚙️ SoC | Qualcomm Snapdragon 8 Gen 2 | Octa-core 3.2GHz CPU Kryo 780, Adreno 740 GPU | USD 100-USD 110 |
+| 📱 Display | 6.8" | 1440x3200 LTPO OLED 144Hz | USD 70-USD 85 |
+| 🔋 Battery | (Generic) | 5000mAh Li-ion (65W Fast Charging + 15W Wireless Charging) | USD 10-USD 15 |
+| 💾 Internal Mem. | (Generic) | 512GB UFS 3.1 | USD 50-USD 55 |
+| 📀 RAM | (Generic)| 12GB LPDDR5 | USD 20-USD 35 |
+| 📸 Rear Camera | Samsung HM3 | 108MP Wide + 16MP Ultrawide + 10MP Periscope Telephoto with OIS, 5x Optical Zoom | USD 40-USD 45 |
+| 📷 Front Camera | Samsung HM3 | 32MP | USD 35-USD 40 |
+| 🎛️ OS | Android | 12 | USD 0-USD 1 |
+| 🛜 Connectivity | Qualcomm X60 | 5G, Wi-Fi 6E, Bluetooth 5.2, GPS/GLONASS | USD 25-USD 30 |
+| 🔉 Speaker | (Generic) | Dual Stereo | USD 4-USD 6 |
+| 🎙️ Microphone | (Generic) | Triple MEMS Microphones (Noise Cancellation) | USD 5-USD 9 |
+| 🔌 Ports | (Generic) | USB Type-C 3.1 Port, 3.5mm Audio Jack | USD 2-USD 4 |
+| 🪪 SIM | (Generic) | Hybrid Dual SIM Slot | USD 1-USD 3 |
+| 🌡️ Sensors | MPU9250 | Gyroscope + Accelerometer, Proximity Sensor, Light Sensor, Fingerprint Sensor (In-display) | USD 4-USD 6 |
+| 📲 Housing | (Generic) | Ceramic Back with Aluminum Frame (IP68 Water and Dust Resistant) | USD 40-USD 50 |
+| ⚡ Wireless Charging | (Generic) | 15W Wireless Charging + 10W Reverse Wireless Charging | USD 5-USD 10 |
 
-+ Custom PCB Layout [ $5-$10 ]
-+ Misc. Screws etc. [ $1 ]
-+ Packaging [ $15-$20 ]
++ Custom PCB Layout [ USD 5-USD 10 ]
++ Misc. Screws etc. [ USD 1 ]
++ Packaging [ USD 15-USD 20 ]
 
-#### Max. Cost = $535
-#### Rec. Selling Price = $800
+#### Max. Cost = USD 535
+#### Rec. Selling Price = USD 800
 
-> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below $500 and then sell each device for **$500-$550**!
+> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below USD 500 and then sell each device for **USD 500-USD 550**!
 
 <br /><br />
 
@@ -156,32 +156,32 @@ This is the best mobile device to build and sell, capable of competing with the 
 
 | Component | Model | Specification | Price |
 |:---|:---:|:---:|:---:|
-| ⚙️ SoC | Qualcomm Snapdragon 8 Gen 3 | Octa-core 3.4GHz CPU Kryo, Adreno GPU | $130-$150 |
-| 📱 Display | Samsung E6 6.8" | 1440x3200 LTPO AMOLED 144Hz | $110-$120 |
-| 🔋 Battery | (Generic) | 6000mAh Li-ion (00W Fast Charging + 50W Wireless Charging + 10W Reverse Wireless Charging) | $20-$25 |
-| 💾 Internal Mem. | (Generic) | 1TB UFS 4.0 | $120-$150 |
-| 📀 RAM | (Generic)| 24GB LPDDR5X | $60-$100 |
-| 📸 Rear Camera | Samsung ISOCELL HP2 | 200MP Wide + 50MP Ultrawide + 12MP Periscope Telephoto with 10x Optical Zoom | $80-100 |
-| 📷 Front Camera | Samsung ISOCELL HP2 | 32MP | $40-$60 |
-| 🎛️ OS | Android | 13 | $0-$1 |
-| 🛜 Connectivity | Qualcomm X70 | 5G, Wi-Fi 7, Bluetooth 5.3, GPS/GLONASS/BeiDou, Ultra-Wideband (UWB) | $40-$50 |
-| 🔉 Speaker | (Generic) | Quad Stereo Speakers with Dolby Atmos | $10-$15 |
-| 🎙️ Microphone | (Generic) | Triple MEMS Microphones (Noise Cancellation) | $5-$9 |
-| 🔌 Ports | (Generic) | USB Type-C 4.0 Port | $3-$6 |
-| 🪪 SIM | (Generic) | Dual Nano-SIM Slot | $2-$5 |
-| 🌡️ Sensors | (Generic) | Under-display 3D Ultrasonic Fingerprint Scanner, LiDAR Sensor, Accelerometer, Gyroscope, Proximity, Ambient Light, Barometer | $20-$25 |
-| 📲 Housing | (Generic) | Ceramic Back with Titanium Frame (IP68 Water and Dust Resistant) | $100-$120 |
-| ⚡ Wireless Charging | (Generic) | 50W Wireless Charging + 10W Reverse Wireless Charging | $10-$12 |
-| ❄️ Cooling System | (Generic) | Vapor Chamber Cooling with Graphene Sheet for Heat Dissipation | $10-15 |
+| ⚙️ SoC | Qualcomm Snapdragon 8 Gen 3 | Octa-core 3.4GHz CPU Kryo, Adreno GPU | USD 130-USD 150 |
+| 📱 Display | Samsung E6 6.8" | 1440x3200 LTPO AMOLED 144Hz | USD 110-USD 120 |
+| 🔋 Battery | (Generic) | 6000mAh Li-ion (00W Fast Charging + 50W Wireless Charging + 10W Reverse Wireless Charging) | USD 20-USD 25 |
+| 💾 Internal Mem. | (Generic) | 1TB UFS 4.0 | USD 120-USD 150 |
+| 📀 RAM | (Generic)| 24GB LPDDR5X | USD 60-USD 100 |
+| 📸 Rear Camera | Samsung ISOCELL HP2 | 200MP Wide + 50MP Ultrawide + 12MP Periscope Telephoto with 10x Optical Zoom | USD 80-100 |
+| 📷 Front Camera | Samsung ISOCELL HP2 | 32MP | USD 40-USD 60 |
+| 🎛️ OS | Android | 13 | USD 0-USD 1 |
+| 🛜 Connectivity | Qualcomm X70 | 5G, Wi-Fi 7, Bluetooth 5.3, GPS/GLONASS/BeiDou, Ultra-Wideband (UWB) | USD 40-USD 50 |
+| 🔉 Speaker | (Generic) | Quad Stereo Speakers with Dolby Atmos | USD 10-USD 15 |
+| 🎙️ Microphone | (Generic) | Triple MEMS Microphones (Noise Cancellation) | USD 5-USD 9 |
+| 🔌 Ports | (Generic) | USB Type-C 4.0 Port | USD 3-USD 6 |
+| 🪪 SIM | (Generic) | Dual Nano-SIM Slot | USD 2-USD 5 |
+| 🌡️ Sensors | (Generic) | Under-display 3D Ultrasonic Fingerprint Scanner, LiDAR Sensor, Accelerometer, Gyroscope, Proximity, Ambient Light, Barometer | USD 20-USD 25 |
+| 📲 Housing | (Generic) | Ceramic Back with Titanium Frame (IP68 Water and Dust Resistant) | USD 100-USD 120 |
+| ⚡ Wireless Charging | (Generic) | 50W Wireless Charging + 10W Reverse Wireless Charging | USD 10-USD 12 |
+| ❄️ Cooling System | (Generic) | Vapor Chamber Cooling with Graphene Sheet for Heat Dissipation | USD 10-15 |
 
-+ Custom PCB Layout [ $15-$20 ]
-+ Misc. Screws etc. [ $1 ]
-+ Packaging [ $15-$20 ]
++ Custom PCB Layout [ USD 15-USD 20 ]
++ Misc. Screws etc. [ USD 1 ]
++ Packaging [ USD 15-USD 20 ]
 
-#### Max. Cost = $1004
-#### Rec. Selling Price = $1200
+#### Max. Cost = USD 1004
+#### Rec. Selling Price = USD 1200
 
-> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below $990 and then sell each device for **$990-$1000**!
+> The pricing here is shown as the "maximum" cost that would be incurred. If proper economies of scale are applied, you could reduce the costs to far below USD 990 and then sell each device for **USD 990-USD 1000**!
 
 If you do not have access to a local supplier for electronic components, then you could order them online on [Alibaba](https://www.alibaba.com/), [AliExpress](https://www.aliexpress.com/), [Mouser](https://www.mouser.com/), and [DigiKey](https://www.digikey.com/). You can find PCBs on [JLPCB](https://jlcpcb.com/), [PCBWay](https://www.pcbway.com/), etc.
 
