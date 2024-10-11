@@ -13,10 +13,7 @@ permalink: /apps/delta-telekom
 
 ## Demo
 
-<video controls>
-  <source src="https://github.com/diztil/delta-telekom/blob/main/gameplay.mp4" type="video/mp4">
-  (Your browser does not support the video tag. So this video cannot be displayed.)
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VYJ3pLXcI8s?si=srlaO7zdZRe2UN6S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Download/Use
 You need to have [Java 8](https://www.java.com/en/) or above installed on your device.
