@@ -5,20 +5,13 @@ description: A new social media/networking platform
 permalink: /apps/amrella
 ---
 
-## Project
-Amrella
+## Info
 
-## Type(s)
-Social Networking Site (SNS)
+| Type(s) | Technology/ies | Language(s) | Platform(s) |
+|:---:|:---:|:---:|:---:|
+| Social Networking Site (SNS) | Wordpress, Buddypress, Buddyboss | N/A | Web, Android |
 
-## Technology/ies
-Wordpress, Buddypress, Buddyboss
-
-## Language(s)
-N/A
-
-## Platform(s)
-Web, Android
+## Demo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j1eKwfCIhbk?si=HXD-swYOAr_zo_K_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
