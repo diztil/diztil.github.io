@@ -11,7 +11,7 @@ permalink: /apps/discordbot
 |:---:|:---:|:---:|:---:|
 | Chatbot | Node.js, Discord.js | JavaScript | Web |
 
-![](https://lh4.googleusercontent.com/Oi5FgXc7zAJTUAZVBoVh9Bk4oKPl9vGwRJGvU7lJJM6CuYXWqsp5hkh3Ryj8bsFi-eqzbBEO8vgwagUC7ZBfyXiHlkIPtSgcA1-TFgu9Cw-3Bxk5oaFJLKGo_yg9otmJiA=w1280)
+![](https://github.com/diztil/Dolly/blob/main/post1.jpg)
 
 ## Download/Use
 
