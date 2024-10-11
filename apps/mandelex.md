@@ -5,20 +5,13 @@ description: Real-time Mandelbrot magnification
 permalink: /apps/mandelex
 ---
 
-## Project
-Mandel Ex
+## Info
 
-## Type(s)
-Real-time Mandelbrot Explorer
+| Type(s) | Technology/ies | Language(s) | Platform(s) |
+|:---:|:---:|:---:|:---:|
+| Real-time Mandelbrot Explorer | N/A | Java | Windows, Linux |
 
-## Technology/ies
-N/A
-
-## Language(s)
-Java
-
-## Platform(s)
-Windows, Linux
+## Demo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xIjsIrgbri4?si=whFwzqq1wvIaj6_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
