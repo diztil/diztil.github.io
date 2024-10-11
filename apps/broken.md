@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Broken. | Online Game
-description: A new social media/networking platform
+description: Open-world action sandbox game
 permalink: /apps/broken
 ---
 
