@@ -5,20 +5,13 @@ description: Open-world action sandbox game
 permalink: /apps/broken
 ---
 
-## Project
-Broken.
+## Info
 
-## Type(s)
-Online Multiplayer Game
+| Type(s) | Technology/ies | Language(s) | Platform(s) |
+|:---:|:---:|:---:|:---:|
+| Online Multiplayer Game | Roblox Studio | Lua | Windows, Android, iOS |
 
-## Technology/ies
-Roblox Studio
-
-## Language(s)
-Lua
-
-## Platform(s)
-Windows, Android, iOS, MacOSX
+## Demo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3RvrimRlD7U?si=wG9n30KtfDYK20Xa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
