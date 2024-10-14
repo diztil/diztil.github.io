@@ -53,7 +53,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://my.muxworks.com/assets/favicon/apple-touch-icon.png"
+                href="/asset/images/favicon.png"
               />
               <link
                 rel="shortcut
@@ -122,11 +122,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 h2,
                 h3, { 
                   font-family: "icomoon";
-                  src:  url('https://d1stil.github.io/detalk/assets/vendor/icomoon/icomoon.eot?g4m7fo');
-                  src:  url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.eot?g4m7fo#iefix') format('embedded-opentype'),
-                        url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.ttf?g4m7fo') format('truetype'),
-                        url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.woff?g4m7fo') format('woff'),
-                        url('https://d1stil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.svg?g4m7fo#icomoon') format('svg');
+                  src:  url('https://diztil.github.io/detalk/assets/vendor/icomoon/icomoon.eot?g4m7fo');
+                  src:  url('https://diztil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.eot?g4m7fo#iefix') format('embedded-opentype'),
+                        url('https://diztil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.ttf?g4m7fo') format('truetype'),
+                        url('https://diztil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.woff?g4m7fo') format('woff'),
+                        url('https://diztil.github.io/detalk/assets/vendor/vendor/icomoon/icomoon.svg?g4m7fo#icomoon') format('svg');
                   font-weight: normal;
                   font-style: normal; 
                 }
@@ -353,32 +353,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     async='async'
                   ></script>
                 </div>
-              - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <!-- <div>
-                  <i class="fas fa-thumbs-up fa-fw"></i>
-                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
-                    jekyll-theme-WuK
-                  </a>
-                </div> -->
               - | # Copyright声明
                 <div>
                   <i class="fas fa-copyright fa-fw"></i>
                   Distil
                 </div>
-              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
-                <!-- <div>
-                  <i class="fas fa-info-circle fa-fw"></i>
-                  <a href="http://beian.miit.gov.cn">
-                    粤ICP备 20024947号
-                  </a>
-                </div>
-              - | # 公安网备信息
-                <div>
-                  <img src="https://i.loli.net/2021/03/17/Y47tDZTrcy2xwRa.png" class="fa-fw"></img>
-                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
-                    皖公网安备 34070202000407号
-                  </a>
-                </div> -->
             wordcount: # 全站字数统计
               enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
               prepend: <i class="fas fa-user-edit fa-fw"></i>
@@ -512,11 +491,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <style>
               
                 .warp {
-                  background-image: url(https://yt3.googleusercontent.com/FYl4eIlRMfHR0lgDFzenmJPAm760RXhvwKps1eVaC4THg3V0MlKu12grwZ_oLR1qJ5-sEy5nVBc=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj);
+                  background-image: url(/asset/images/dewanmukto_bg.png);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://yt3.googleusercontent.com/FYl4eIlRMfHR0lgDFzenmJPAm760RXhvwKps1eVaC4THg3V0MlKu12grwZ_oLR1qJ5-sEy5nVBc=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj);
+                    background-image: url(/asset/images/dewanmukto_bg.png);
                   }
                 }
               </style>
