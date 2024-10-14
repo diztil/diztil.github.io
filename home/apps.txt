@@ -1,5 +1,5 @@
 Delta Telekom///Java///https://github.com/diztil/delta-telekom/raw/main/thumb.png///https://dewanmukto.com/apps/delta-telekom
 Mandel Ex///Java///https://i.ytimg.com/vi/xIjsIrgbri4/maxresdefault.jpg///https://dewanmukto.com/apps/mandelex
-Broken.///Lua///https://i.ytimg.com/vi/3RvrimRlD7U/maxresdefault.jpg///https://dewanmukto.com/apps/broken
+Broken.///Lua, Roblox Studio///https://i.ytimg.com/vi/3RvrimRlD7U/maxresdefault.jpg///https://dewanmukto.com/apps/broken
 Amrella///Wordpress, Android SDK///https://i.ytimg.com/vi/j1eKwfCIhbk/maxresdefault.jpg///https://dewanmukto.com/apps/amrella
 Dolly///Node.js///https://dewanmukto.com/asset/images/post1.jpg///https://dewanmukto.com/apps/discordbot
