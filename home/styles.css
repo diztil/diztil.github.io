@@ -316,3 +316,64 @@ body {
     height: 95vh;
     border: none;
 }
+
+.about-panel {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    z-index: 1000;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    max-width: 200px;
+}
+
+.about-panel:hover {
+    padding-right: 25px;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.about-panel:hover::after {
+    content: ' - Social Links';
+    color: #aaa;
+}
+
+.about-panel.expanded {
+    max-width: 400px;
+    white-space: normal;
+    padding: 20px;
+}
+
+.about-panel.expanded::after {
+    content: '';
+}
+
+.about-panel a {
+    color: #0aff45;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.about-panel a:hover {
+    color: #fff;
+}
+.socials {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  opacity: 0.4;
+  font-size: 1.6rem;
+  padding: 0.1rem;
+}
+.socials:hover {
+  opacity: 0.8;
+}
+.fa-brands,.fa-solid, .fa-regular {
+  scale: 4rem;
+  position:relative;
+}
