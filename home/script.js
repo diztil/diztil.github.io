@@ -105,3 +105,26 @@ function showCategory(category) {
             categoriesList.style.transform = `translateY(${offset}%)`;
         }
     }
+function toggleAboutPanel() {
+    const aboutPanel = document.querySelector('.about-panel');
+    if (!aboutPanel.classList.contains('expanded')) {
+        aboutPanel.innerHTML = `
+            Contact Me - Social Links
+            <br><br>
+            <a href="https://www.facebook.com/dewanmukto" target="_blank"><i class="fa-brands fa-facebook socials"></i></a>
+            <a href="http://instagram.com/dewanmukto" target="_blank"><i class="fa-brands fa-instagram socials"></i></a>
+             <a href="https://www.linkedin.com/in/dewanmukto/" target="_blank"><i class="fa-brands fa-linkedin socials"></i></a>
+             <a href="https://www.youtube.com/@DewanMukto" target="_blank"><i class="fa-brands fa-youtube socials"></i></a>
+             <a href="https://www.behance.net/dmkto" target="_blank"><i class="fa-brands fa-behance socials"></i></a>
+             <a href="https://github.com/diztil" target="_blank"><i class="fa-brands fa-github socials"></i></a>
+             <a href="https://x.com/dewan_mukto" target="_blank"><i class="fa-brands fa-twitter socials"></i></a>
+             <a href="mailto:website@den.ovh" target="_blank"><i class="fa-solid fa-envelope socials"></i></a>
+             <br><br>
+             Tap/click again to close
+        `;
+        aboutPanel.classList.add('expanded');
+    } else {
+        aboutPanel.innerHTML = 'Contact Me';
+        aboutPanel.classList.remove('expanded');
+    }
+}
