@@ -9,6 +9,6 @@ Delta Telekom///Java///https://github.com/diztil/delta-telekom/raw/main/thumb.pn
 Mandel Ex///Java///https://i.ytimg.com/vi/xIjsIrgbri4/maxresdefault.jpg///https://dewanmukto.com/apps/mandelex
 Broken.///Lua, Roblox Studio///https://i.ytimg.com/vi/3RvrimRlD7U/maxresdefault.jpg///https://dewanmukto.com/apps/broken
 JammyTube///HTML, CSS, JS, YouTube API///https://jammy.muxday.com/ogimage.jpg///https://jammy.muxday.com/
-Muktoverse///A-Frame (WebVR)///https://3d.dewanmukto.com/public/assets/dmc_banner.png///https://3d.dewanmukto.com/public/
+Muktoverse///A-Frame (WebVR)///https://3d.dewanmukto.com/public/assets/ogimage.gif///https://3d.dewanmukto.com/public/
 Amrella///Wordpress, Android SDK///https://i.ytimg.com/vi/j1eKwfCIhbk/maxresdefault.jpg///https://dewanmukto.com/apps/amrella
 Dolly///Node.js///https://dewanmukto.com/asset/images/post1.jpg///https://dewanmukto.com/apps/discordbot
