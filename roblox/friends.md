@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roblox Friendlist
-permalink: /friends
+permalink: /roblox/friends
 jekyll-theme-WuK:
   default:
     sidebar:
