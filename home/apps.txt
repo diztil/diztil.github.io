@@ -1,14 +1,14 @@
-MuxRepeat///Python, Pynput///https://cdn.muxday.com/images/ogimage-muxrepeat.png///https://repeat.muxday.com/
-MuxPaint///HTML, CSS, JS///https://paint.muxday.com/ogimage.png///https://paint.muxday.com/
-BRACU Course Search///HTML, CSS, JS///https://bracu.muxday.com/ogimage.png///https://bracu.muxday.com/
-Jackbus///HTML, CSS, LeafletJS///https://dewanmukto.com/asset/images/appimage04.png///https://jackbus.muxday.com/
+MuxRepeat///Python, Pynput///https://cdn.mux8.com/images/ogimage-muxrepeat.png///https://repeat.mux8.com/
+MuxPaint///HTML, CSS, JS///https://apps.mux8.com/paint/ogimage.png///https://apps.mux8.com/paint/
+BRACU Course Search///HTML, CSS, JS///https://apps.mux8.com/bracu/courses/ogimage.png///https://apps.mux8.com/bracu/courses/
+Jackbus///HTML, CSS, LeafletJS///https://dewanmukto.com/asset/images/appimage04.png///https://apps.muxday.com/metrobus/
 Oozbok///Python, Selenium, Pandas///https://dewanmukto.com/asset/images/appimage03.png///https://dewanmukto.com/apps/oozbok
 Zen G///Python, OpenGL///https://dewanmukto.com/asset/images/appimage02.jpg///https://dewanmukto.com/apps/zen-g
 Bracket///PHP, MySQL///https://dewanmukto.com/asset/images/appimage01.png///https://dewanmukto.com/apps/bracket-messenger
 Delta Telekom///Java///https://github.com/diztil/delta-telekom/raw/main/thumb.png///https://dewanmukto.com/apps/delta-telekom
 Mandel Ex///Java///https://i.ytimg.com/vi/xIjsIrgbri4/maxresdefault.jpg///https://dewanmukto.com/apps/mandelex
 Broken.///Lua, Roblox Studio///https://i.ytimg.com/vi/3RvrimRlD7U/maxresdefault.jpg///https://dewanmukto.com/apps/broken
-JammyTube///HTML, CSS, JS, YouTube API///https://jammy.muxday.com/ogimage.jpg///https://jammy.muxday.com/
+JammyTube///HTML, CSS, JS, YouTube API///https://apps.mux8.com/yt/ogimage.jpg///https://apps.muxday.com/yt/
 Muktoverse///A-Frame (WebVR)///https://3d.dewanmukto.com/public/assets/ogimage.gif///https://3d.dewanmukto.com/public/
 Amrella///Wordpress, Android SDK///https://i.ytimg.com/vi/j1eKwfCIhbk/maxresdefault.jpg///https://dewanmukto.com/apps/amrella
 Dolly///Node.js///https://dewanmukto.com/asset/images/post1.jpg///https://dewanmukto.com/apps/discordbot
