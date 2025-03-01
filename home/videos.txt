@@ -18,7 +18,7 @@
 /// ///https://i.ytimg.com/vi/iURPRMePlbw/maxresdefault.jpg///https://www.youtube.com/embed/iURPRMePlbw
 /// ///https://i.ytimg.com/vi/M5hxadOj9H8/maxresdefault.jpg///https://www.youtube.com/embed/M5hxadOj9H8
 /// ///https://i.ytimg.com/vi/r-m73QJiNdU/maxresdefault.jpg///https://www.youtube.com/embed/r-m73QJiNdU
-/// ///https://i.ytimg.com/vi/2E4REewJgJY/maxresdefault.jpg///https://www.youtube.com/embed/2E4REewJgJY
+/// ///https://i.ytimg.com/vi/2E4REewJgJY/sddefault.jpg///https://www.youtube.com/embed/2E4REewJgJY
 /// ///https://i.ytimg.com/vi/aHNDf5AMr7c/sddefault.jpg///https://www.youtube.com/embed/aHNDf5AMr7c
 /// ///https://i.ytimg.com/vi/CKtsA1S5Kc0/maxresdefault.jpg///https://www.youtube.com/embed/CKtsA1S5Kc0
 /// ///https://i.ytimg.com/vi/rOIqV9BUuPg/maxresdefault.jpg///https://www.youtube.com/embed/rOIqV9BUuPg
