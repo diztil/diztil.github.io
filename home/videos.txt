@@ -7,12 +7,12 @@
 /// ///https://i.ytimg.com/vi/lgJU7GWyea0/maxresdefault.jpg///https://www.youtube.com/embed/lgJU7GWyea0
 /// ///https://i.ytimg.com/vi/0s6wcBfBtI8/maxresdefault.jpg///https://www.youtube.com/embed/0s6wcBfBtI8
 /// ///https://i.ytimg.com/vi/nMSrh9sKIDk/maxresdefault.jpg///https://www.youtube.com/embed/nMSrh9sKIDk
-/// ///https://i.ytimg.com/vi/Olvpjm_lFJs/maxresdefault.jpg///https://www.youtube.com/embed/Olvpjm_lFJs
+/// ///https://i.ytimg.com/vi/Olvpjm_lFJs/sddefault.jpg///https://www.youtube.com/embed/Olvpjm_lFJs
 /// ///https://i.ytimg.com/vi/VnibeQmKCSY/maxresdefault.jpg///https://www.youtube.com/embed/VnibeQmKCSY
 /// ///https://i.ytimg.com/vi/5TXRtx__lko/maxresdefault.jpg///https://www.youtube.com/embed/5TXRtx__lko
-/// ///https://i.ytimg.com/vi/HrrHkn6Nyow/maxresdefault.jpg///https://www.youtube.com/embed/HrrHkn6Nyow
-/// ///https://i.ytimg.com/vi/SPfSfeBBg18/maxresdefault.jpg///https://www.youtube.com/embed/SPfSfeBBg18
-/// ///https://i.ytimg.com/vi/lxAjAWwoI5U/maxresdefault.jpg///https://www.youtube.com/embed/lxAjAWwoI5U
+/// ///https://i.ytimg.com/vi/HrrHkn6Nyow/sddefault.jpg///https://www.youtube.com/embed/HrrHkn6Nyow
+/// ///https://i.ytimg.com/vi/SPfSfeBBg18/sddefault.jpg///https://www.youtube.com/embed/SPfSfeBBg18
+/// ///https://i.ytimg.com/vi/lxAjAWwoI5U/sddefault.jpg///https://www.youtube.com/embed/lxAjAWwoI5U
 /// ///https://i.ytimg.com/vi/PcnXI24CRBc/maxresdefault.jpg///https://www.youtube.com/embed/PcnXI24CRBc
 /// ///https://i.ytimg.com/vi/iURPRMePlbw/maxresdefault.jpg///https://www.youtube.com/embed/iURPRMePlbw
 /// ///https://i.ytimg.com/vi/M5hxadOj9H8/maxresdefault.jpg///https://www.youtube.com/embed/M5hxadOj9H8
@@ -21,8 +21,8 @@
 /// ///https://i.ytimg.com/vi/CKtsA1S5Kc0/maxresdefault.jpg///https://www.youtube.com/embed/CKtsA1S5Kc0
 /// ///https://i.ytimg.com/vi/rOIqV9BUuPg/maxresdefault.jpg///https://www.youtube.com/embed/rOIqV9BUuPg
 /// ///https://i.ytimg.com/vi/u2hSU9jBmd0/maxresdefault.jpg///https://www.youtube.com/embed/u2hSU9jBmd0
-/// ///https://i.ytimg.com/vi/sSzvVVt88oM/maxresdefault.jpg///https://www.youtube.com/embed/sSzvVVt88oM
-/// ///https://i.ytimg.com/vi/LgQN-Lpj-kI/maxresdefault.jpg///https://www.youtube.com/embed/LgQN-Lpj-kI
+/// ///https://i.ytimg.com/vi/sSzvVVt88oM/sddefault.jpg///https://www.youtube.com/embed/sSzvVVt88oM
+/// ///https://i.ytimg.com/vi/LgQN-Lpj-kI/sddefault.jpg///https://www.youtube.com/embed/LgQN-Lpj-kI
 /// ///https://i.ytimg.com/vi/vBo0Q9Ubip8/maxresdefault.jpg///https://www.youtube.com/embed/vBo0Q9Ubip8
 /// ///https://i.ytimg.com/vi/vjSDPAi-KxI/maxresdefault.jpg///https://www.youtube.com/embed/vjSDPAi-KxI
 /// ///https://i.ytimg.com/vi/jKUMjCQEB7s/maxresdefault.jpg///https://www.youtube.com/embed/jKUMjCQEB7s
