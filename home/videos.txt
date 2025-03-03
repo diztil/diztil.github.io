@@ -1,5 +1,4 @@
 /// ///https://i.ytimg.com/vi/_OMifw7tWMw/maxresdefault.jpg///https://www.youtube.com/embed/_OMifw7tWMw
-/// ///https://i.ytimg.com/vi/zC8g3HUenBc/maxresdefault.jpg///https://www.youtube.com/embed/zC8g3HUenBc
 /// ///https://i.ytimg.com/vi/NlvZ_htK3a4/maxresdefault.jpg///https://www.youtube.com/embed/NlvZ_htK3a4
 /// ///https://i.ytimg.com/vi/01EHX3v8A1Y/maxresdefault.jpg///https://www.youtube.com/embed/01EHX3v8A1Y
 /// ///https://i.ytimg.com/vi/pbBjTk6v6NU/maxresdefault.jpg///https://www.youtube.com/embed/pbBjTk6v6NU
