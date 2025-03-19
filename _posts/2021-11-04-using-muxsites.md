@@ -11,16 +11,16 @@ MuxSites is a brand new cheap and efficient way of ordering and getting your own
 Yep! Definitely. They provide many more features and freedom of choice on their **Free Plan** than most website builders today. Once you order your site, you can have custom CSS, embeds, layouts (if it's not too complicated) added to your site.
 
 <!-- A summary of the **Free Plan** on MuxSites :
-![](  https://diztil.github.io/detalkblog/images/circletick.png) No watermark
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Custom CSS
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Custom embeds
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Custom layout (depends on complexity)
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Free hosting (upto 1 GB)
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Free subdomain `[yoursitename].muxsites.com`, e.g. diztil.github.io/detalkblog, amrella.muxsites.com
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) Free SSL certificate (https)
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) SEO guarantee
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) Multiple pages
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) Further customization -->
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) No watermark
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Custom CSS
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Custom embeds
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Custom layout (depends on complexity)
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Free hosting (upto 1 GB)
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Free subdomain `[yoursitename].muxsites.com`, e.g. dewanmukto.github.io/detalkblog, amrella.muxsites.com
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Free SSL certificate (https)
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) SEO guarantee
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Multiple pages
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Further customization -->
 
 ## Other plans
 * Personal @ $5 per month
@@ -31,55 +31,55 @@ A quick summary of available features for each pricing plan has been provided be
 
 | | Free | Personal | Enterprise | Corporation |
 |     :---      |     :---:      |     :---:      |     :---:     |     :---:     |
-| No watermark   | ![]( https://diztil.github.io/detalkblog/images/circletick.png)     | ![](  https://diztil.github.io/detalkblog/images/circletick.png)    | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Custom CSS     | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Custom embeds     | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Custom layout     | Limited | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Free hosting | 1 GB | 5 GB | 15 GB | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) |
-| Free SSL certificate | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| SEO guarantee | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Multiple pages | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | < 100 | < 10000 | Unlimited |
+| No watermark   | ![]( https://dewanmukto.github.io/detalkblog/images/circletick.png)     | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png)    | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Custom CSS     | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Custom embeds     | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Custom layout     | Limited | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Free hosting | 1 GB | 5 GB | 15 GB | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) |
+| Free SSL certificate | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| SEO guarantee | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Multiple pages | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | < 100 | < 10000 | Unlimited |
 | Customization | Basic | Further | Advanced | Full |
-| Blog site | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Ecommerce site | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Server monitoring | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Sitemap & meta info | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Custom domain | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| DNS management | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Social platform | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| App versions | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | Android, iOS |
-| Desktop client | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| Bespoke admin site | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circletick.png) |
-| API contract | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) | ![](  https://diztil.github.io/detalkblog/images/circlecross.png) |
+| Blog site | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Ecommerce site | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Server monitoring | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Sitemap & meta info | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Custom domain | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| DNS management | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Social platform | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| App versions | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | Android, iOS |
+| Desktop client | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| Bespoke admin site | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) |
+| API contract | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) | ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) |
 
-<!-- ![](  https://diztil.github.io/detalkblog/images/circletick.png) Everything from **Free**
-![](  https://diztil.github.io/detalkblog/images/circletick.png) SEO guarantee
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Multiple pages
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Blog site
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Hosting (upto 5 GB)
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Further customization
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) Ecommerce site
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) Server monitoring
-![](  https://diztil.github.io/detalkblog/images/circlecross.png) Sitemap and meta info
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Everything from **Personal**
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Hosting (upto 15 GB)
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Ecommerce site
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Full customization
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Server monitoring
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Sitemap and meta info
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) Custom domain (`[anyname].com`,`[anyname].org`)
-* ![](  https://diztil.github.io/detalkblog/images/circletick.png) DNS management
-* ![](  https://diztil.github.io/detalkblog/images/circlecross.png) Social platform
-* ![](  https://diztil.github.io/detalkblog/images/circlecross.png) App versions
-* ![](  https://diztil.github.io/detalkblog/images/circlecross.png) Bespoke admin software/site
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Everything from **Enterprise**
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Social platform
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Webapp included
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Android app version
-![](  https://diztil.github.io/detalkblog/images/circletick.png) iOS app version
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Desktop client
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Bespoke admin software/site
-![](  https://diztil.github.io/detalkblog/images/circletick.png) Any extra features -->
+<!-- ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Everything from **Free**
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) SEO guarantee
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Multiple pages
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Blog site
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Hosting (upto 5 GB)
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Further customization
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Ecommerce site
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Server monitoring
+![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Sitemap and meta info
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Everything from **Personal**
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Hosting (upto 15 GB)
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Ecommerce site
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Full customization
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Server monitoring
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Sitemap and meta info
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Custom domain (`[anyname].com`,`[anyname].org`)
+* ![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) DNS management
+* ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Social platform
+* ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) App versions
+* ![](  https://dewanmukto.github.io/detalkblog/images/circlecross.png) Bespoke admin software/site
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Everything from **Enterprise**
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Social platform
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Webapp included
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Android app version
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) iOS app version
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Desktop client
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Bespoke admin software/site
+![](  https://dewanmukto.github.io/detalkblog/images/circletick.png) Any extra features -->
 
 ## Try the Free Plan
 You can feel free to give it a try. After all, it costs $0 so why lose an opportunity?
@@ -89,7 +89,7 @@ You can feel free to give it a try. After all, it costs $0 so why lose an opport
 ------
 
 ## Consider PAYING a bit MORE
-You can reap some interesting benefits by upgrading/choosing a premium plan for your site. For example, *this* website (diztil.github.io/detalkblog) would qualify for a Personal plan.
+You can reap some interesting benefits by upgrading/choosing a premium plan for your site. For example, *this* website (dewanmukto.github.io/detalkblog) would qualify for a Personal plan.
 
 Here are some comparisons with other platforms and sites which can be substituted by MuxSites :
 
