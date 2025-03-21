@@ -7,6 +7,15 @@ document.addEventListener("DOMContentLoaded", function() {
     introVideo.addEventListener('ended', function() {
         fadeOutIntroVideo();
     });
+
+    // Load 3D website by default in the main content area
+    const content = document.getElementById('content');
+    const iframe = document.createElement('iframe');
+    iframe.src = "https://3d.dewanmukto.com/";
+    iframe.style.width = "100%";
+    iframe.style.height = "100vh";
+    iframe.style.border = "none";
+    content.appendChild(iframe);
 });
 
 // Function to fade out the intro video and remove it from the DOM
